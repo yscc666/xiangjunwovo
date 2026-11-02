@@ -102,7 +102,7 @@ raw.forEach((s, i) => {
     cn: s.cn,
     sciLabel: s.sci,
     sciAccepted: accepted,
-    synonyms: [w.alt, ...(s.alt || [])].filter(Boolean).filter(x => x !== s.sci),
+    synonyms: [...new Set([w.alt, ...(s.alt || [])].filter(Boolean).filter(x => x !== s.sci))],
     nameStatus: st.zh,
     nameOk: st.ok,
     unacceptReason: primary.unacceptreason || '',
