@@ -238,6 +238,23 @@ footer {
 }
 .foot-inner { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
 
+.dedication {
+  margin: 26px 0 0;
+  padding-top: 18px;
+  text-align: center;
+  font-size: .88rem;
+  letter-spacing: .04em;
+  color: var(--muted);
+}
+.dedication::before {
+  content: "";
+  display: block;
+  width: 44px;
+  height: 1px;
+  margin: 0 auto 16px;
+  background: var(--border);
+}
+
 .to-top {
   position: fixed; right: 22px; bottom: 22px; width: 42px; height: 42px; border-radius: 50%;
   background: var(--accent); color: #fff; border: 0; cursor: pointer; display: none; place-items: center;
