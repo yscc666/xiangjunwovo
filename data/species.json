@@ -1,0 +1,981 @@
+{
+ "stats": {
+  "species": 10,
+  "coiRecords": 27,
+  "genomes": 12,
+  "speciesWithGenome": 4,
+  "totalCoiPublic": 887,
+  "refseqProtein": 101018,
+  "gastropoda": 5,
+  "bivalvia": 5,
+  "generated": "2026-11-02",
+  "sources": [
+   "NCBI E-utilities (nuccore / taxonomy / assembly)",
+   "NCBI Datasets API",
+   "WoRMS (marinespecies.org)"
+  ]
+ },
+ "species": [
+  {
+   "id": "MOL-01",
+   "cn": "棒锥螺",
+   "sciLabel": "Turritella terebra",
+   "sciAccepted": "Turritella terebra",
+   "synonyms": [
+    "Turritella terebra bacillum",
+    "Turritella terebra bacillum"
+   ],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "(Linnaeus, 1758)",
+   "classLa": "Gastropoda",
+   "classZh": "腹足纲",
+   "familyLa": "Turritellidae",
+   "familyZh": "锥螺科",
+   "orderLa": "Caenogastropoda incertae sedis",
+   "orderZh": "新腹足类（地位未定）",
+   "taxidNcbi": "13744",
+   "aphiaId": 215163,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Gastropoda"
+    },
+    {
+     "rank": "subclass",
+     "name": "Caenogastropoda"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Cerithioidea"
+    },
+    {
+     "rank": "family",
+     "name": "Turritellidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Turritella"
+    }
+   ],
+   "morphology": "壳高、细长呈螺旋锥状，螺层可达 20 层以上，每层具多条细密螺旋肋，壳色灰白至淡褐。壳口小，近圆形。",
+   "habitat": "浅海沙泥底质，多在潮下带至数十米水深，营底内埋栖或半埋栖生活，以鳃滤食有机碎屑与浮游生物。",
+   "note": "标本标签写作 Turritella terebra bacillum（亚种／变种级），WoRMS 与 NCBI 现均按 Turritella terebra 处理，未承认该亚种。",
+   "coi": [
+    {
+     "acc": "AY953976.1",
+     "len": 657,
+     "gc": 36.83,
+     "def": "AY953976.1 Turritella terebra isolate Tt_DR cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "AACTTTATATATTTTATTTGGGATGTGATCTGGTTTAGTTGGAACTGCTTTAAGGTTACTTATTCGGGCTGAGCTTGGTCAGCCTGGGGCATTGTTAGGAGATGATCAACTATATAATGTGATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCGATAATAATTGGTGGATTTGGTAACTGATTGGTTCCGCTAATACTTGGAGCTCCTGATATGGCTTTTCCGCGATTGAATAATATGAGGTTTTGGTTACTACCTCCTGCCTTATTGCTTTTACTTTCTTCAGCAGCTGTTGAAAGGGGAGTAGGAACAGGATGGACTGTGTATCCTCCTTTAGCCGGAAATTTAGCTCATGCCGGAGGCTCGGTTGATTTAGCCATTTTTTCTCTCCATTTAGCTGGTGTTTCTTCTATTTTAGGGGCTGTAAATTTTATTACAACTATTATTAATATACGATGACGTGGTATGCAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTATTACTTCTTTCCCTTCCAGTTCTTGCGGGGGCTATTACTATATTATTAACTGACCGTAATTTCAATACTGCTTTTTTTGATCCAGCTGGTGGTGGAGATCCAATTTTATATCAACATCTTTT"
+    },
+    {
+     "acc": "JF693447.1",
+     "len": 616,
+     "gc": 37.66,
+     "def": "JF693447.1 Turritella terebra isolate X1112 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "GACTGCTTTGAGATTGCTTATTCGAGCTGAGCTTGGTCAACCTGGGGCATTGTTGGGAGATGATCAACTTTATAATGTAATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCCATAATAATTGGTGGATTTGGTAATTGGTTGGTTCCACTAATGCTTGGGGCTCCTGATATAGCTTTTCCTCGATTAAATAACATAAGATTTTGGTTGTTACCTCCTGCCCTGTTACTTTTACTCTCTTCAGCAGCTGTTGAAAGAGGAGTGGGGACAGGGTGAACTGTCTATCCTCCACTATCTGGTAATCTGGCTCATGCTGGGGGTTCGGTTGATTTAGCAATTTTTTCCCTTCATTTAGCTGGTGTCTCTTCTATTCTAGGGGCTGTAAATTTTATTACAACTATTATTAATATGCGATGACGTGGTATACAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTGTTACTTCTTTCTCTTCCTGTTCTTGCAGGGGCTATTACTATACTATTGACTGATCGAAATTTTAATACTGCTTTTTTTGACCCTGCTGGTGGTGGAGATCCAATTTTGTATCAACATCTTTTT"
+    },
+    {
+     "acc": "JF693446.1",
+     "len": 616,
+     "gc": 37.01,
+     "def": "JF693446.1 Turritella terebra isolate X1111 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "AACTGCTTTGAGATTGCTTATTCGAGCTGAGCTTGGTCAACCTGGAGCATTGTTGGGAGATGATCAACTTTATAATGTAATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCCATAATAATTGGTGGATTTGGTAATTGGTTGGTTCCACTAATGCTTGGGGCTCCTGATATAGCTTTTCCCCGATTAAATAACATAAGATTTTGGTTGTTACCTCCTGCCTTGTTACTTTTACTCTCTTCAGCAGCTGTTGAAAGAGGAGTGGGGACAGGGTGAACTGTCTATCCTCCACTATCTGGTAATCTGGCTCATGCTGGGGGTTCGGTTGATTTAGCAATTTTTTCCCTTCATTTAGCTGGTGTTTCTTCTATTCTAGGGGCTGTAAATTTTATTACAACTATTATTAATATGCGATGACGTGGTATACAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTGTTACTTCTTTCTCTTCCTGTTCTTGCAGGGGCTATTACTATACTATTAACTGATCGAAATTTTAATACTGCTTTTTTTGACCCTGCTGGCGGTGGAGATCCAATTTTATATCAACATCTTTTT"
+    }
+   ],
+   "coiCount": 7,
+   "otherSeq": [],
+   "genomes": [],
+   "refseqProtein": 0,
+   "nucleotide": 10
+  },
+  {
+   "id": "MOL-02",
+   "cn": "方斑东风螺",
+   "sciLabel": "Babylonia areolata",
+   "sciAccepted": "Babylonia areolata",
+   "synonyms": [],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "(Link, 1807)",
+   "classLa": "Gastropoda",
+   "classZh": "腹足纲",
+   "familyLa": "Babyloniidae",
+   "familyZh": "东风螺科",
+   "orderLa": "Neogastropoda",
+   "orderZh": "新腹足目",
+   "taxidNcbi": "304850",
+   "aphiaId": 475109,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Gastropoda"
+    },
+    {
+     "rank": "subclass",
+     "name": "Caenogastropoda"
+    },
+    {
+     "rank": "order",
+     "name": "Neogastropoda"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Buccinoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Buccinidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Babylonia"
+    }
+   ],
+   "morphology": "壳卵圆锥形、坚实，壳面光滑，具褐色方形斑块；壳口宽，内唇具肋状齿。",
+   "habitat": "潮下带沙泥底，肉食性，捕食小型双壳类与腐肉；我国海南、广东、福建沿海重要养殖对象（方斑东风螺）。",
+   "note": "标签科名写作「蛾螺科」(Buccinidae)；WoRMS 现归入东风螺科 (Babyloniidae)，NCBI 分类仍列于 Buccinidae，两种口径并存。",
+   "coi": [
+    {
+     "acc": "MN389156.1",
+     "len": 658,
+     "gc": 38.15,
+     "def": "MN389156.1 Babylonia areolata isolate LSGB_N_064 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "AACATTGTATATTTTGTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGCGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCACTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATTTATTT"
+    },
+    {
+     "acc": "MN389155.1",
+     "len": 658,
+     "gc": 38.15,
+     "def": "MN389155.1 Babylonia areolata isolate LSGB_N_063 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "AACATTGTATATTTTGTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGTGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCGCTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATTTATTT"
+    },
+    {
+     "acc": "OR677007.1",
+     "len": 638,
+     "gc": 38.87,
+     "def": "OR677007.1 Babylonia areolata voucher NMNS-8720-008 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGTGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCACTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATT"
+    }
+   ],
+   "coiCount": 27,
+   "otherSeq": [],
+   "genomes": [
+    {
+     "acc": "GCA_041734735.1",
+     "name": "ASM4173473v1",
+     "level": "Chromosome",
+     "size": "1651990951",
+     "n50": 53174447,
+     "gc": 43.5
+    },
+    {
+     "acc": "GCF_041734735.1",
+     "name": "ASM4173473v1",
+     "level": "Chromosome",
+     "size": "1651990951",
+     "n50": 53174447,
+     "gc": 43.5
+    },
+    {
+     "acc": "GCA_011634625.1",
+     "name": "BA9_1.0",
+     "level": "Scaffold",
+     "size": "1108395005",
+     "n50": 6321,
+     "gc": 43
+    }
+   ],
+   "refseqProtein": 38612,
+   "nucleotide": 43720
+  },
+  {
+   "id": "MOL-03",
+   "cn": "尖锥蟹守螺",
+   "sciLabel": "Cerithium vulgatum",
+   "sciAccepted": "Thericium vulgatum",
+   "synonyms": [],
+   "nameStatus": "旧组合（属名已变更）",
+   "nameOk": false,
+   "unacceptReason": "",
+   "authority": "Bruguière, 1792",
+   "classLa": "Gastropoda",
+   "classZh": "腹足纲",
+   "familyLa": "Cerithiidae",
+   "familyZh": "蟹守螺科",
+   "orderLa": "Caenogastropoda incertae sedis",
+   "orderZh": "新腹足类（地位未定）",
+   "taxidNcbi": 3901986,
+   "aphiaId": 139066,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Gastropoda"
+    },
+    {
+     "rank": "subclass",
+     "name": "Caenogastropoda"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Cerithioidea"
+    },
+    {
+     "rank": "family",
+     "name": "Cerithiidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Thericium"
+    }
+   ],
+   "morphology": "壳小型、细长塔形，螺层多，表面具颗粒状或结节状突起与螺旋纹，壳色暗褐。",
+   "habitat": "潮间带至浅海岩礁、海藻丛与碎石底，刮食附着藻类与有机膜，地中海及东大西洋常见种。",
+   "note": "该物种在 NCBI 仅有 3 条微卫星序列、无公开 COI 条形码，故本站序列模块对其标注「无公开 COI」。WoRMS 接受名为 Thericium vulgatum。",
+   "coi": [],
+   "coiCount": 0,
+   "otherSeq": [
+    {
+     "acc": "AF301496.1",
+     "len": 426,
+     "gc": 45.31,
+     "def": "AF301496.1 Cerithium vulgatum clone V13 microsatellite sequence",
+     "kind": "微卫星（非条形码）"
+    },
+    {
+     "acc": "AF301494.1",
+     "len": 407,
+     "gc": 48.65,
+     "def": "AF301494.1 Cerithium vulgatum clone V1 microsatellite sequence",
+     "kind": "微卫星（非条形码）"
+    },
+    {
+     "acc": "AF301495.1",
+     "len": 397,
+     "gc": 47.1,
+     "def": "AF301495.1 Cerithium vulgatum clone V11 microsatellite sequence",
+     "kind": "微卫星（非条形码）"
+    }
+   ],
+   "genomes": [],
+   "refseqProtein": 0,
+   "nucleotide": 3
+  },
+  {
+   "id": "MOL-04",
+   "cn": "瘤荔枝螺",
+   "sciLabel": "Thais tuberosa",
+   "sciAccepted": "Menathais tuberosa",
+   "synonyms": [
+    "Menathais tuberosa"
+   ],
+   "nameStatus": "旧组合（属名已变更）",
+   "nameOk": false,
+   "unacceptReason": "",
+   "authority": "(Röding, 1798)",
+   "classLa": "Gastropoda",
+   "classZh": "腹足纲",
+   "familyLa": "Muricidae",
+   "familyZh": "骨螺科",
+   "orderLa": "Neogastropoda",
+   "orderZh": "新腹足目",
+   "taxidNcbi": 508960,
+   "aphiaId": 1671233,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Gastropoda"
+    },
+    {
+     "rank": "subclass",
+     "name": "Caenogastropoda"
+    },
+    {
+     "rank": "order",
+     "name": "Neogastropoda"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Muricoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Muricidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Menathais"
+    }
+   ],
+   "morphology": "壳厚重、卵圆形，体螺层具明显瘤状突起与短棘，壳面灰褐至紫褐色，壳口内缘具齿。",
+   "habitat": "潮间带至浅海岩礁，肉食性，可钻穿双壳类贝壳取食，是牡蛎与珍珠贝养殖的主要敌害之一。",
+   "note": "标签科名写作「荔螺科」，现行分类为骨螺科 (Muricidae)；WoRMS 接受名为 Menathais tuberosa，GenBank 中同名记录亦以 Menathais 标注。",
+   "coi": [
+    {
+     "acc": "HE584348.1",
+     "len": 658,
+     "gc": 40.27,
+     "def": "HE584348.1 Menathais tuberosa mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MNHN:IM-2007-18166",
+     "seq": "AACATTATATATTTTATTTGGAATATGGTCAGGACTGGTAGGTACCGCTCTTAGTCTTCTTATTCGAGCAGAGCTTGGACAGCCCGGGGCTCTTTTAGGGGACGATCAGTTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGAAATTGACTGGTTCCCTTAATACTAGGGGCACCGGACATGGCTTTCCCACGACTAAACAATATGAGATTTTGACTTCTTCCTCCCGCACTTCTTCTCCTTCTTTCTTCTGCAGCTGTAGAAAGGGGTGTTGGAACCGGATGAACTGTTTATCCTCCATTAGCGGGAAATCTAGCACATGCTGGAGGTTCTGTAGATCTAGCAATTTTCTCCCTCCACTTAGCTGGGGTTTCTTCTATTCTGGGTGCTGTTAATTTCATCACTACAATCATCAATATACGCTGACGTGGTATGCAATTTGAGCGATTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTTTGTTATCCCTACCTGTATTAGCTGGGGCAATTACAATGCTGTTGACTGATCGGAACTTCAACACTGCATTCTTTGACCCAGCAGGTGGTGGAGATCCTATTTTATACCAACATCTATTT"
+    },
+    {
+     "acc": "HE584347.1",
+     "len": 658,
+     "gc": 40.27,
+     "def": "HE584347.1 Menathais tuberosa mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK:20070163",
+     "seq": "AACATTATATATTTTATTTGGAATATGGTCAGGACTGGTAGGTACCGCTCTTAGTCTTCTTATTCGAGCAGAGCTTGGACAGCCCGGGGCTCTTTTAGGGGACGATCAGTTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGAAATTGACTGGTTCCCTTAATACTAGGGGCACCGGACATGGCTTTCCCACGACTAAATAATATGAGATTTTGACTTCTTCCTCCCGCACTTCTTCTCCTTCTTTCTTCTGCAGCTGTAGAAAGGGGTGTTGGAACCGGATGAACTGTTTATCCTCCATTAGCGGGAAATCTAGCACATGCTGGAGGTTCTGTAGATCTAGCAATTTTCTCCCTCCACTTAGCTGGGGTTTCTTCTATTCTGGGTGCTGTTAATTTCATCACTACAATCATCAACATACGCTGACGTGGTATGCAATTTGAGCGATTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTTTGTTATCCCTACCTGTATTAGCTGGGGCAATTACAATGCTGTTGACTGATCGGAACTTCAATACTGCATTCTTTGACCCAGCAGGTGGTGGAGATCCTATTTTATACCAACATCTATTC"
+    },
+    {
+     "acc": "EU391575.1",
+     "len": 658,
+     "gc": 39.51,
+     "def": "EU391575.1 Thais tuberosa cyotchrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "AACATTATATATTTTATTTGGAATATGATCAGGACTGGTGGGTACCGCTCTCAGTCTTCTTATTCGAGCAGAACTTGGACAGCCAGGAGCTCTTTTAGGGGACGATCAACTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGGAATTGATTGGTTCCCTTAATACTAGGGGCACCGGATATGGCTTTCCCCCGACTAAACAATATGAGATTTTGACTCCTTCCTCCTGCACTTCTTCTTCTCCTTTCTTCTGCAGCTGTAGAAAGGGGGGTTGGGACTGGATGAACTGTTTATCCTCCGTTAGCGGGAAATCTAGCACACGCTGGAGGTTCTGTAGATTTAGCAATTTTTTCTCTCCACTTAGCTGGGGTTTCCTCTATTCTAGGTGCTGTTAATTTCATCACTACAATTATCAACATACGTTGACGTGGTATGCAATTTGAGCGGTTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTCTGTTGTCCTTACCTGTGTTAGCTGGGGCAATTACAATACTGTTAACTGATCGAAATTTCAATACTGCATTCTTTGACCCAGCAGGGGGTGGAGATCCTATTTTATATCAACATCTATTT"
+    }
+   ],
+   "coiCount": 8,
+   "otherSeq": [],
+   "genomes": [],
+   "refseqProtein": 13,
+   "nucleotide": 27
+  },
+  {
+   "id": "MOL-05",
+   "cn": "缢蛏",
+   "sciLabel": "Sinonovacula constricta",
+   "sciAccepted": "Sinonovacula constricta",
+   "synonyms": [
+    "Solen constricta"
+   ],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "(Lamarck, 1818)",
+   "classLa": "Bivalvia",
+   "classZh": "双壳纲（瓣鳃纲）",
+   "familyLa": "Pharidae",
+   "familyZh": "竹蛏科",
+   "orderLa": "Adapedonta",
+   "orderZh": "贫齿目",
+   "taxidNcbi": "98310",
+   "aphiaId": 413600,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Bivalvia"
+    },
+    {
+     "rank": "subclass",
+     "name": "Autobranchia"
+    },
+    {
+     "rank": "order",
+     "name": "Cardiida"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Tellinoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Solecurtidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Sinonovacula"
+    }
+   ],
+   "morphology": "壳薄、长椭圆形，两端开口，壳顶略靠前端，壳顶后方有一条斜向缢痕（故名「缢蛏」），壳表黄绿至灰白。",
+   "habitat": "潮间带中低潮区软泥滩，穴居深度可达 30–50 cm，广温广盐，滤食性；我国浙、闽沿海大规模养殖。",
+   "note": "标签科名「竹蛏科」(Pharidae) 与 WoRMS 一致；NCBI 分类将其置于 Solecurtidae，属分类数据库间差异，非标签错误。",
+   "coi": [
+    {
+     "acc": "OQ434729.1",
+     "len": 641,
+     "gc": 34.79,
+     "def": "OQ434729.1 Sinonovacula constricta isolate 21914-3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GATCAGGATTAGTTGGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTAATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGAGCTGGATGAACAATTTATCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGTGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGTCTTTTTGTCTGGTCTGTTGTGATTACTGCTTTTTTACTAGTGTTAGCGATGCCAGTTTTAGCAGGTGCTTTAACTATACTTTTAACTGACCGTCATTTTAACACATCCTTTTTTGATCCTAGAGGGGGAGGAGATCCTATCTTGTTTGTTCATTTATTTTGATTTTGG"
+    },
+    {
+     "acc": "OQ434730.1",
+     "len": 626,
+     "gc": 35.62,
+     "def": "OQ434730.1 Sinonovacula constricta isolate 21914-4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GATCAGGATTAGTTGGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTGATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGGGCTGGATGAACAATTTATCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGGGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGCCTTTTTGTTTGGTCTGTTGTGATTACTGCTTTTTTACTAGTATTAGCGATGCCAGTTTTAGCAGGGGCTTTAACTATGCTTTTAACTGACCGTCATTTTAATACATCCTTTTTTGATCCTAGAGGGGGAGGAGATCCTATCTTGTTTGTTCAT"
+    },
+    {
+     "acc": "AY874534.1",
+     "len": 580,
+     "gc": 34.66,
+     "def": "AY874534.1 Sinonovacula constricta cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "GGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTGATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGAGCTGGATGAACAATTTACCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGTGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGTCTTTTTGTTTGGTCTGTTGTGATTACTGCTTTTTTACTAGTGTTAGCGATGCCAGTTTTAGCAGGTGCTTTAACTATACTTTTAACTGACCGTCATTTTAACACATCCTTTTTTGATCCTA"
+    }
+   ],
+   "coiCount": 150,
+   "otherSeq": [],
+   "genomes": [
+    {
+     "acc": "GCA_007844125.1",
+     "name": "ASM784412v1",
+     "level": "Chromosome",
+     "size": "1220848272",
+     "n50": 65929677,
+     "gc": 35
+    },
+    {
+     "acc": "GCA_009762815.1",
+     "name": "ASM976281v1",
+     "level": "Chromosome",
+     "size": "1332234310",
+     "n50": 57991182,
+     "gc": 35.5
+    }
+   ],
+   "refseqProtein": 12,
+   "nucleotide": 22371
+  },
+  {
+   "id": "MOL-06",
+   "cn": "泥蚶",
+   "sciLabel": "Tegillarca granosa",
+   "sciAccepted": "Tegillarca granosa",
+   "synonyms": [
+    "Anadara granosa",
+    "Anadara granosa",
+    "Arca granosa"
+   ],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "(Linnaeus, 1758)",
+   "classLa": "Bivalvia",
+   "classZh": "双壳纲（瓣鳃纲）",
+   "familyLa": "Arcidae",
+   "familyZh": "蚶科",
+   "orderLa": "Arcida",
+   "orderZh": "蚶目",
+   "taxidNcbi": "220873",
+   "aphiaId": 504471,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Bivalvia"
+    },
+    {
+     "rank": "subclass",
+     "name": "Autobranchia"
+    },
+    {
+     "rank": "order",
+     "name": "Arcoida"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Arcoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Arcidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Tegillarca"
+    }
+   ],
+   "morphology": "壳坚厚、卵圆形，放射肋粗壮（约 18–20 条），肋上具颗粒状结节，壳表被褐色壳皮与细绒毛。",
+   "habitat": "潮间带泥滩埋栖，广温广盐，滤食性；血淋巴含血红蛋白故称「血蚶」，我国沿海传统养殖贝类。",
+   "note": "标签用「双壳纲」，为「瓣鳃纲」的同物异名，二者均指 Bivalvia。",
+   "coi": [
+    {
+     "acc": "PZ756559.1",
+     "len": 654,
+     "gc": 37.46,
+     "def": "PZ756559.1 Tegillarca granosa voucher TG15.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+    },
+    {
+     "acc": "PZ756558.1",
+     "len": 654,
+     "gc": 37.46,
+     "def": "PZ756558.1 Tegillarca granosa voucher TG14.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+    },
+    {
+     "acc": "PZ756557.1",
+     "len": 654,
+     "gc": 37.46,
+     "def": "PZ756557.1 Tegillarca granosa voucher TG12.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+    }
+   ],
+   "coiCount": 175,
+   "otherSeq": [],
+   "genomes": [
+    {
+     "acc": "GCA_029721355.1",
+     "name": "KUTeg",
+     "level": "Chromosome",
+     "size": "915485251",
+     "n50": 45661362,
+     "gc": 31.5
+    },
+    {
+     "acc": "GCA_013375625.1",
+     "name": "ASM1337562v1",
+     "level": "Scaffold",
+     "size": "797648519",
+     "n50": 42616908,
+     "gc": 31.5
+    }
+   ],
+   "refseqProtein": 12,
+   "nucleotide": 4398
+  },
+  {
+   "id": "MOL-07",
+   "cn": "紫贻贝",
+   "sciLabel": "Mytilus edulis",
+   "sciAccepted": "Mytilus edulis",
+   "synonyms": [],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "Linnaeus, 1758",
+   "classLa": "Bivalvia",
+   "classZh": "双壳纲（瓣鳃纲）",
+   "familyLa": "Mytilidae",
+   "familyZh": "贻贝科",
+   "orderLa": "Mytilida",
+   "orderZh": "贻贝目",
+   "taxidNcbi": "6550",
+   "aphiaId": 140480,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Bivalvia"
+    },
+    {
+     "rank": "subclass",
+     "name": "Autobranchia"
+    },
+    {
+     "rank": "order",
+     "name": "Mytilida"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Mytiloidea"
+    },
+    {
+     "rank": "family",
+     "name": "Mytilidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Mytilus"
+    }
+   ],
+   "morphology": "壳楔形、薄而韧，壳表黑紫至蓝黑色，壳顶位于前端，腹缘略直，以足丝附着于硬质基底。",
+   "habitat": "潮间带至浅海岩礁、码头桩柱与养殖浮筏，滤食性，形成密集贝床，是重要经济贝类与生态工程种。",
+   "note": "我国养殖的「紫贻贝」在部分文献中记为地中海贻贝 Mytilus galloprovincialis，二者形态与分布高度重叠；本站按标本标签采用 M. edulis。",
+   "coi": [
+    {
+     "acc": "PX916445.1",
+     "len": 661,
+     "gc": 38.12,
+     "def": "PX916445.1 Mytilus edulis isolate s2569-13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GACTCTTTATCTATATAGTGGGGTCTGAGGAGGTTTGTTCGGGGCAAGGTTAAGTCTGATAATCCGGATACAGTTAGGGCATCCTGGAGCAGTATTTTTAAAAAGAGACTGGTTTTATAATGTGGTTGTTACAACACACGCCTTAATAATAATTTTCTTTGCTGTAATACCTATCCTAATCGGAGCTTTTGGTAATTGGCTGATTCCTCTATTAGTAGGTGGTAAAGATATAATTTATCCGCGGATAAATAATTTGAGTTATTGGTTATCTCCTAATGCGCTATATTTACTTATATTATCTTTTAGAACGGATAAAGGGGTAGGTGCTGGATGGACTATTTACCCGCCATTGTCTGTATACCCTTATCATAGCGGGCCGAGGATAGATGTTCTTATTGTGTCCTTGCATTTAGCTGGGTTAAGTTCTTTGGTGGGTGCTATTAATTTTGCTAGTACCAACAAAAACATACCAGTTTTAGAGATAAAAGGAGAACGAGCTGAGCTTTATGTCCTAAGGATTAGAGTTACTGCCGTATTGCTAATTATTTCTATTCCGGTTTTAGGAGGGGGTATCACAATAATTCTGTTTGATCGGAATTTTAACACAACATTTTTTGATCCAGCAGGAGGGGGTGACCCTGTCTTGTTTCAACATTTGTTC"
+    },
+    {
+     "acc": "PX916444.1",
+     "len": 661,
+     "gc": 39.79,
+     "def": "PX916444.1 Mytilus edulis isolate s2569-9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "AACCCTTTATCTGTATAGCGGAGTCTGAGGAGGGTTGTTTGGAGCAAGGTTGAGGTTAATGATCCGAATGCAACTGGGTCATCCTGGAGCAGTGTTCTTAAAAAGAGATTGATTCTATAATGTGGTGGTTACAACGCATGCCTTAATAATAATTTTTTTTGCTGTGATACCTATCTTAATTGGAGCTTTCGGTAATTGGTTGATTCCTCTGCTAGTAGGAGGTAAAGATATAATTTACCCGCGAATAAATAACTTAAGTTATTGACTATCTCCTAATGCACTATATTTGCTAATACTGTCCTTTAGAACGGATAAAGGAGTTGGTGCTGGATGAACTATTTACCCCCCTTTATCTGTGTACCCCTATCATAGGGGCCCTAGGATAGATGTTCTTATTGTGTCACTACATCTAGCTGGGCTCAGCTCTCTAGTGGGGGCTATTAACTTTGCTAGGACCAATAAAAATATGCCAGTGTTAGAAATGAAAGGAGAACGAGCGGAGCTTTATGTTTTAAGGATTAGAGTTACTGCAGTTCTTTTAATTATTTCAATTCCGGTTTTAGGAGGGGGTATCACAATAATCTTGTTTGACCGAAACTTTAACACAACTTTTTTCGATCCCGCAGGAGGGGGGGACCCCGTTTTGTTCCAACATTTGTTT"
+    },
+    {
+     "acc": "PX916443.1",
+     "len": 661,
+     "gc": 38.28,
+     "def": "PX916443.1 Mytilus edulis isolate s2569-5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TACTCTTTATCTATATAGTGGGGTCTGAGGAGGTTTGTTCGGGGCAAGGTTAAGCCTGATAATCCGGATACAGTTAGGGCATCCTGGAGCAGTATTTTTAAAAAGAGACTGGTTTTATAATGTGGTTGTTACAACACACGCCTTAATAATAATTTTCTTTGCTGTAATACCTATCCTAATCGGAGCTTTTGGTAATTGGCTGATTCCTCTATTAGTAGGTGGTAAAGATATAATTTATCCGCGGATAAATAATTTGAGTTATTGGTTATCTCCTAATGCGCTATATTTACTTATATTATCTTTTAGAACGGATAAAGGGGTAGGTGCTGGATGGACTATTTACCCGCCATTGTCTGTATACCCTTATCATAGCGGGCCGAGGATAGATGTTCTTATTGTGTCCTTGCATTTAGCTGGGTTAAGTTCTTTGGTGGGTGCTATTAATTTTGCTAGTACCAACAAAAACATACCAGTTTTAGAGATAAAAGGAGAACGAGCTGAGCTTTATGTCCTAAGGATCAGAGTTACTGCCGTATTGCTAATTATTTCTATTCCGGTTTTAGGAGGGGGTATCACAATAATTCTGTTTGATCGGAATTTTAACACAACATTTTTTGATCCAGCAGGAGGGGGTGACCCTGTCTTGTTTCAACATTTGTTC"
+    }
+   ],
+   "coiCount": 454,
+   "otherSeq": [],
+   "genomes": [
+    {
+     "acc": "GCA_963676685.2",
+     "name": "xbMytEdul2.2",
+     "level": "Chromosome",
+     "size": "1368414245",
+     "n50": 93447462,
+     "gc": 32.5
+    },
+    {
+     "acc": "GCF_963676685.1",
+     "name": "xbMytEdul2.2",
+     "level": "Chromosome",
+     "size": "1368414245",
+     "n50": 93447462,
+     "gc": 32.5
+    },
+    {
+     "acc": "GCA_019925275.2",
+     "name": "PEIMed_v2",
+     "level": "Chromosome",
+     "size": "1651231726",
+     "n50": 116503180,
+     "gc": 32.5
+    },
+    {
+     "acc": "GCA_025276775.1",
+     "name": "MeduEUN",
+     "level": "Chromosome",
+     "size": "1764168478",
+     "n50": 77102752,
+     "gc": 32
+    },
+    {
+     "acc": "GCA_025215535.1",
+     "name": "MeduEUS",
+     "level": "Chromosome",
+     "size": "2076684032",
+     "n50": 228263,
+     "gc": 34.5
+    }
+   ],
+   "refseqProtein": 62345,
+   "nucleotide": 88936
+  },
+  {
+   "id": "MOL-08",
+   "cn": "栉孔扇贝",
+   "sciLabel": "Chlamys farreri",
+   "sciAccepted": "Scaeochlamys farreri",
+   "synonyms": [
+    "Azumapecten farreri",
+    "Azumapecten farreri",
+    "Chlamys farreri nipponensis"
+   ],
+   "nameStatus": "旧组合（属名已变更）",
+   "nameOk": false,
+   "unacceptReason": "",
+   "authority": "(K. H. Jones & Preston, 1904)",
+   "classLa": "Bivalvia",
+   "classZh": "双壳纲（瓣鳃纲）",
+   "familyLa": "Pectinidae",
+   "familyZh": "扇贝科",
+   "orderLa": "Pectinida",
+   "orderZh": "扇贝目",
+   "taxidNcbi": "106299",
+   "aphiaId": 1468835,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Bivalvia"
+    },
+    {
+     "rank": "subclass",
+     "name": "Autobranchia"
+    },
+    {
+     "rank": "order",
+     "name": "Pectinida"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Pectinoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Pectinidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Azumapecten"
+    }
+   ],
+   "morphology": "壳扇形、左右壳略不等，具放射肋 20 余条，肋上具小鳞片，前耳下方有足丝孔（栉孔），壳色多变。",
+   "habitat": "浅海岩礁与砾石底，以足丝附着生活，滤食性；我国黄渤海主要养殖扇贝（栉孔扇贝）。",
+   "note": "Chlamys farreri 为旧组合，WoRMS 接受名为 Scaeochlamys farreri，NCBI 采用 Azumapecten farreri，三个属名指同一物种。",
+   "coi": [
+    {
+     "acc": "PV875158.1",
+     "len": 800,
+     "gc": 39.63,
+     "def": "PV875158.1 Azumapecten farreri voucher CAU24-22131 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GGGGGGATTGACATGAGGTTTCCTCGAGTTAATACGTTTAGGTTTTGGCTTGTTCCTTTTGCTCTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATACCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGTTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTAC"
+    },
+    {
+     "acc": "PV875129.1",
+     "len": 806,
+     "gc": 38.83,
+     "def": "PV875129.1 Azumapecten farreri voucher CAU24-23088 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "GTTAATACGTTTAGGTTTTGGCTTGTTCCTTTTGCTCTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATATCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGCTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTACGGGAATTATTTTATCTAATGCTTCGTTAGACGT"
+    },
+    {
+     "acc": "PV875169.1",
+     "len": 810,
+     "gc": 38.77,
+     "def": "PV875169.1 Azumapecten farreri voucher CAU24-21078 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "CTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATACCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGTTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTACGGGAATTATTTTATCTAATGCTTCGTTAGACGTGGCTTTACATGATACTTATTATGTGGTAGCTCACTTTCAT"
+    }
+   ],
+   "coiCount": 19,
+   "otherSeq": [],
+   "genomes": [],
+   "refseqProtein": 11,
+   "nucleotide": 25625
+  },
+  {
+   "id": "MOL-09",
+   "cn": "小眼花帘蛤",
+   "sciLabel": "Ruditapes variegatus",
+   "sciAccepted": "Ruditapes aspera",
+   "synonyms": [
+    "Venerupis variegata",
+    "Veremolpa micra",
+    "Tapes variegatus"
+   ],
+   "nameStatus": "次定同物异名（已归并）",
+   "nameOk": false,
+   "unacceptReason": "",
+   "authority": "(G. B. Sowerby II, 1852)",
+   "classLa": "Bivalvia",
+   "classZh": "双壳纲（瓣鳃纲）",
+   "familyLa": "Veneridae",
+   "familyZh": "帘蛤科",
+   "orderLa": "Venerida",
+   "orderZh": "帘蛤目",
+   "taxidNcbi": "291252",
+   "aphiaId": 826409,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Bivalvia"
+    },
+    {
+     "rank": "subclass",
+     "name": "Autobranchia"
+    },
+    {
+     "rank": "order",
+     "name": "Venerida"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Veneroidea"
+    },
+    {
+     "rank": "family",
+     "name": "Veneridae"
+    },
+    {
+     "rank": "genus",
+     "name": "Ruditapes"
+    }
+   ],
+   "morphology": "壳三角卵圆形、较薄，壳面平滑，具褐色锯齿状或放射状色斑，壳内面可见外套窦。",
+   "habitat": "潮间带至浅海沙泥底埋栖，滤食性，常见于我国南方沿海滩涂。",
+   "note": "标签学名 Ruditapes variegatus 现被视为 Ruditapes aspera 的次定同物异名（WoRMS）；GenBank 中另有大量以 Venerupis variegata 发表的记录。",
+   "coi": [
+    {
+     "acc": "JF700193.1",
+     "len": 658,
+     "gc": 34.19,
+     "def": "JF700193.1 Ruditapes variegatus voucher AS17MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "TACATTATATTTCATTTTTTCAATTTGGGCTGGTCTGATGGGGACTGCTTTTAGTGTTATTATTCGTATAGAGTTGGCTATGCCGGGGAAAATGCTAGATGATGGTCAGCTTTATAATTTAGTTGTAACTGCTCATGGATTAGTTATGATTTTTTTTTTAGTAATACCAATAATAATTGGTGGGTTTGGTAATTGGTTGATTCCATTAATATTAAAAATACCTGATATAGCATTTCCTCGAATAAATAATTTAAGTTTTTGGTTACTTCCTGTATCAATATTGTTATTATTAGGGTCTGCATATGTGGATGGTGGGGCTGGTACTGGTTGAACAGTGTACCCTCCGTTGTCGTCAATTGGGTTCCATTCAGGTTGTGCTGTGGATTATGTAATTTTTTCTCTTCACGTAGGTGGTGTCTCTTCAATTTTAGCCTCTATTAATTTTGTAATTACTACATCATTGATGCGAACAGGTGTTATGTTAATTTTGCGTAGTAGTATATTAGCTTGGTGTTTAGGGGTAACAGGTTTTCTTTTGATTGTAGCTATACCAGTTTTGGCAGGGGGTTTAACTATGCTGCTTAGTGATCGTCATTTTAATACAACATTTTTTGATCCAATAGGGTTGGGAGACCCTATTTTATTTATTCATTTATTT"
+    },
+    {
+     "acc": "HQ703317.1",
+     "len": 642,
+     "gc": 37.69,
+     "def": "HQ703317.1 Venerupis variegata isolate ZW100401 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "TTTTCTATTTGAGCCGGCCTTATAGGGACTGCGTTTAGAGTAATTATTCGAATGGAATTAGCTATGCCTGGGAAGATATTGGATGATGGTCAGTTATATAATTTAGTGGTAACTGCGCATGGTTTGGTAATAATTTTCTTTTTAGTAATACCTATAATGATTGGGGGTTTTGGGAATTGGTTGGTGCCTTTAATATTAAAGGCACCTGACATGGCTTTTGCACGAATAAATAATTTGAGTTTCTGGCTTTTACCTGTGTCTATAATGTTATTGTTGAGGTCCAGGTATGTGGATGGTGGTGCTGGAACGGGTTGAACTATTTATCCGCCTTTATCTAGTGCTATTTCACATTCTGGGTGTGCTATGGACTATGTCATCTTTTCTTTACATGTTGGGGGAATATCATCTATTATAGCATCTATTAATTTCGTTATTACTACAGTTCTTATACGGAGGGGGGTGATAGTATTATTCCGGGCTAGAATGTTAGTGTGGTGCTTAGGAGTAACTGCTTTCTTGTTGGTAGTGGCGATACCTGTGCTGGCGGGAGCTTTAACTATGTTATTAACTGATCGTAACTTTAATACAAGGTTTTTTGATCCAGTAGGAATAGGGGACCCTATTTTATTTATTCATTTGTTT"
+    },
+    {
+     "acc": "HQ703316.1",
+     "len": 642,
+     "gc": 37.69,
+     "def": "HQ703316.1 Venerupis variegata isolate ZS080212 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+     "seq": "TTTTCTATTTGAGCCGGCCTTATAGGGACTGCGTTTAGAGTAATTATTCGAATGGAATTAGCTATGCCTGGGAAGATATTGGATGATGGTCAGTTATATAATTTAGTGGTAACTGCGCATGGTTTGGTAATAATTTTCTTTTTAGTAATACCTATAATGATTGGGGGTTTTGGGAATTGGTTGGTGCCTTTAATATTAAAGGCACCTGACATGGCTTTTGCACGAATAAATAATTTGAGTTTCTGGCTTTTACCTGTGTCTATAATGTTATTGTTGAGGTCCAGGTATGTGGATGGTGGTGCTGGAACGGGTTGAACTATTTATCCGCCTTTATCTAGTGCTATTTCACATTCTGGGTGTGCTATGGACTATGTCATCTTTTCTTTACATGTTGGGGGAATATCATCTATTATAGCATCTATTAATTTCGTTATTACTACAGTTCTTATACGGAGGGGGGTGATAGTATTATTCCGGGCTAGAATGTTAGTGTGGTGCTTAGGAGTAACTGCTTTCTTGTTGGTAGTGGCGATACCTGTGCTGGCGGGAGCTTTAACTATGTTATTAACTGATCGTAACTTTAATACAAGGTTTTTTGATCCAGTAGGAATAGGGGACCCTATTTTATTTATTCATTTGTTT"
+    }
+   ],
+   "coiCount": 27,
+   "otherSeq": [],
+   "genomes": [],
+   "refseqProtein": 13,
+   "nucleotide": 56
+  },
+  {
+   "id": "MOL-10",
+   "cn": "环纹货贝",
+   "sciLabel": "Monetaria annulus",
+   "sciAccepted": "Monetaria annulus",
+   "synonyms": [
+    "Cypraea annulus",
+    "Cypraea annulus"
+   ],
+   "nameStatus": "接受名",
+   "nameOk": true,
+   "unacceptReason": "",
+   "authority": "(Linnaeus, 1758)",
+   "classLa": "Gastropoda",
+   "classZh": "腹足纲",
+   "familyLa": "Cypraeidae",
+   "familyZh": "宝贝科",
+   "orderLa": "Littorinimorpha",
+   "orderZh": "滨螺目",
+   "taxidNcbi": "217785",
+   "aphiaId": 216875,
+   "lineage": [
+    {
+     "rank": "phylum",
+     "name": "Mollusca"
+    },
+    {
+     "rank": "class",
+     "name": "Gastropoda"
+    },
+    {
+     "rank": "subclass",
+     "name": "Caenogastropoda"
+    },
+    {
+     "rank": "order",
+     "name": "Littorinimorpha"
+    },
+    {
+     "rank": "superfamily",
+     "name": "Cypraeoidea"
+    },
+    {
+     "rank": "family",
+     "name": "Cypraeidae"
+    },
+    {
+     "rank": "genus",
+     "name": "Monetaria"
+    }
+   ],
+   "morphology": "壳卵圆形、光滑，背部隆起，具一圈橙黄色环纹，环纹外侧灰白；齿列短而粗。",
+   "habitat": "热带珊瑚礁区潮间带至浅水，行动缓慢，以藻类与碎屑为食；历史上曾作货币使用。",
+   "note": "标签学名 Monetaria annulus 与 WoRMS 一致，旧组合为 Cypraea annulus。",
+   "coi": [
+    {
+     "acc": "MZ560055.1",
+     "len": 658,
+     "gc": 40.88,
+     "def": "MZ560055.1 Monetaria annulus voucher USNM:1467060 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGACGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGGAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCGCCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTAGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGTATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATACCAACACCTGTTT"
+    },
+    {
+     "acc": "MZ560054.1",
+     "len": 658,
+     "gc": 40.88,
+     "def": "MZ560054.1 Monetaria annulus voucher USNM:1467058 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGATGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGAAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCACCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTGGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGCATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATACCAGCACCTGTTT"
+    },
+    {
+     "acc": "PX457580.1",
+     "len": 684,
+     "gc": 39.91,
+     "def": "PX457580.1 Monetaria annulus isolate MBSCYP06 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+     "seq": "TAAAGATATTGGTACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGATGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGAAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCACCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTAGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGCATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATATCAACACCTGTTTTGATTTTTTGGTCA"
+    }
+   ],
+   "coiCount": 20,
+   "otherSeq": [],
+   "genomes": [],
+   "refseqProtein": 0,
+   "nucleotide": 38
+  }
+ ],
+ "fasta": [
+  {
+   "id": "MOL-01",
+   "file": "MOL-01_Turritella_terebra.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-02",
+   "file": "MOL-02_Babylonia_areolata.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-04",
+   "file": "MOL-04_Thais_tuberosa.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-05",
+   "file": "MOL-05_Sinonovacula_constricta.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-06",
+   "file": "MOL-06_Tegillarca_granosa.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-07",
+   "file": "MOL-07_Mytilus_edulis.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-08",
+   "file": "MOL-08_Chlamys_farreri.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-09",
+   "file": "MOL-09_Ruditapes_variegatus.fasta",
+   "n": 3
+  },
+  {
+   "id": "MOL-10",
+   "file": "MOL-10_Monetaria_annulus.fasta",
+   "n": 3
+  }
+ ]
+}

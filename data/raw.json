@@ -1,0 +1,1259 @@
+[
+ {
+  "cn": "棒锥螺",
+  "sci": "Turritella terebra",
+  "alt": [
+   "Turritella terebra bacillum"
+  ],
+  "raw": {},
+  "taxid": "13744",
+  "matchedName": "Turritella terebra",
+  "tax": {
+   "name": "Turritella terebra",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Gastropoda",
+     "rank": "class"
+    },
+    {
+     "name": "Caenogastropoda",
+     "rank": "subclass"
+    },
+    {
+     "name": "Sorbeoconcha",
+     "rank": "clade"
+    },
+    {
+     "name": "Cerithioidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Turritellidae",
+     "rank": "family"
+    },
+    {
+     "name": "Turritella",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 7,
+  "coi": [
+   {
+    "acc": "AY953976.1",
+    "def": "AY953976.1 Turritella terebra isolate Tt_DR cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 657,
+    "gc": 36.83,
+    "seq": "AACTTTATATATTTTATTTGGGATGTGATCTGGTTTAGTTGGAACTGCTTTAAGGTTACTTATTCGGGCTGAGCTTGGTCAGCCTGGGGCATTGTTAGGAGATGATCAACTATATAATGTGATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCGATAATAATTGGTGGATTTGGTAACTGATTGGTTCCGCTAATACTTGGAGCTCCTGATATGGCTTTTCCGCGATTGAATAATATGAGGTTTTGGTTACTACCTCCTGCCTTATTGCTTTTACTTTCTTCAGCAGCTGTTGAAAGGGGAGTAGGAACAGGATGGACTGTGTATCCTCCTTTAGCCGGAAATTTAGCTCATGCCGGAGGCTCGGTTGATTTAGCCATTTTTTCTCTCCATTTAGCTGGTGTTTCTTCTATTTTAGGGGCTGTAAATTTTATTACAACTATTATTAATATACGATGACGTGGTATGCAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTATTACTTCTTTCCCTTCCAGTTCTTGCGGGGGCTATTACTATATTATTAACTGACCGTAATTTCAATACTGCTTTTTTTGATCCAGCTGGTGGTGGAGATCCAATTTTATATCAACATCTTTT"
+   },
+   {
+    "acc": "JF693447.1",
+    "def": "JF693447.1 Turritella terebra isolate X1112 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 616,
+    "gc": 37.66,
+    "seq": "GACTGCTTTGAGATTGCTTATTCGAGCTGAGCTTGGTCAACCTGGGGCATTGTTGGGAGATGATCAACTTTATAATGTAATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCCATAATAATTGGTGGATTTGGTAATTGGTTGGTTCCACTAATGCTTGGGGCTCCTGATATAGCTTTTCCTCGATTAAATAACATAAGATTTTGGTTGTTACCTCCTGCCCTGTTACTTTTACTCTCTTCAGCAGCTGTTGAAAGAGGAGTGGGGACAGGGTGAACTGTCTATCCTCCACTATCTGGTAATCTGGCTCATGCTGGGGGTTCGGTTGATTTAGCAATTTTTTCCCTTCATTTAGCTGGTGTCTCTTCTATTCTAGGGGCTGTAAATTTTATTACAACTATTATTAATATGCGATGACGTGGTATACAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTGTTACTTCTTTCTCTTCCTGTTCTTGCAGGGGCTATTACTATACTATTGACTGATCGAAATTTTAATACTGCTTTTTTTGACCCTGCTGGTGGTGGAGATCCAATTTTGTATCAACATCTTTTT"
+   },
+   {
+    "acc": "JF693446.1",
+    "def": "JF693446.1 Turritella terebra isolate X1111 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 616,
+    "gc": 37.01,
+    "seq": "AACTGCTTTGAGATTGCTTATTCGAGCTGAGCTTGGTCAACCTGGAGCATTGTTGGGAGATGATCAACTTTATAATGTAATTGTAACAGCACATGCTTTTGTAATAATTTTTTTTCTTGTTATACCCATAATAATTGGTGGATTTGGTAATTGGTTGGTTCCACTAATGCTTGGGGCTCCTGATATAGCTTTTCCCCGATTAAATAACATAAGATTTTGGTTGTTACCTCCTGCCTTGTTACTTTTACTCTCTTCAGCAGCTGTTGAAAGAGGAGTGGGGACAGGGTGAACTGTCTATCCTCCACTATCTGGTAATCTGGCTCATGCTGGGGGTTCGGTTGATTTAGCAATTTTTTCCCTTCATTTAGCTGGTGTTTCTTCTATTCTAGGGGCTGTAAATTTTATTACAACTATTATTAATATGCGATGACGTGGTATACAATTTGAACGTCTTCCTTTATTTGTGTGATCAGTAAAAATTACAGCTATTTTGTTACTTCTTTCTCTTCCTGTTCTTGCAGGGGCTATTACTATACTATTAACTGATCGAAATTTTAATACTGCTTTTTTTGACCCTGCTGGCGGTGGAGATCCAATTTTATATCAACATCTTTTT"
+   }
+  ],
+  "genomes": [],
+  "refseqProtein": 0,
+  "nucleotide": 10
+ },
+ {
+  "cn": "方斑东风螺",
+  "sci": "Babylonia areolata",
+  "alt": [],
+  "raw": {},
+  "taxid": "304850",
+  "matchedName": "Babylonia areolata",
+  "tax": {
+   "name": "Babylonia areolata",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Gastropoda",
+     "rank": "class"
+    },
+    {
+     "name": "Caenogastropoda",
+     "rank": "subclass"
+    },
+    {
+     "name": "Neogastropoda",
+     "rank": "order"
+    },
+    {
+     "name": "Buccinoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Buccinidae",
+     "rank": "family"
+    },
+    {
+     "name": "Babylonia",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 27,
+  "coi": [
+   {
+    "acc": "MN389156.1",
+    "def": "MN389156.1 Babylonia areolata isolate LSGB_N_064 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 38.15,
+    "seq": "AACATTGTATATTTTGTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGCGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCACTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATTTATTT"
+   },
+   {
+    "acc": "MN389155.1",
+    "def": "MN389155.1 Babylonia areolata isolate LSGB_N_063 cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 38.15,
+    "seq": "AACATTGTATATTTTGTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGTGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCGCTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATTTATTT"
+   },
+   {
+    "acc": "OR677007.1",
+    "def": "OR677007.1 Babylonia areolata voucher NMNS-8720-008 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 638,
+    "gc": 38.87,
+    "seq": "GTTTGGGATATGGTCCGGATTAGTTGGTACTGCTCTTAGATTGCTAATCCGAGCAGAACTTGGCCAACCAGGAGCATTACTTGGTGATGACCAATTATATAATGTTATTGTAACAGCCCATGCCTTCGTTATAATTTTTTTCCTAGTAATACCAATGATGATTGGTGGATTTGGAAATTGATTGGTTCCGCTAATATTGGGAGCTCCAGACATAGCTTTCCCTCGTCTTAACAATATAAGTTTTTGATTATTACCGCCTGCTTTGCTTCTTTTATTATCTTCGGCCGCGGTAGAAAGCGGTGTTGGAACGGGATGAACTGTTTACCCTCCCTTAGCTGGAAATTTAGCCCATGCTGGTGGTTCTGTAGACCTTGCTATTTTTTCTTTACATCTTGCTGGTGTTTCATCTATTTTAGGTGCAGTAAATTTTATTACAACAATTATCAATATGCGATGACAGGGTATGCAATTTGAGCGTCTTCCTTTATTTGTATGATCGGTTAAAATTACAGCAATTCTATTGTTGCTTTCACTTCCAGTATTAGCTGGAGCTATTACGATACTCTTAACTGACCGAAATTTTAATACTGCATTTTTTGATCCTGCCGGGGGTGGAGATCCTATCTTATATCAGCATT"
+   }
+  ],
+  "genomes": [
+   {
+    "acc": "GCA_041734735.1",
+    "name": "ASM4173473v1",
+    "level": "Chromosome",
+    "size": "1651990951",
+    "n50": 53174447,
+    "contigN50": 2638925,
+    "gc": 43.5,
+    "refseq": "reference genome",
+    "date": "2024-09-04"
+   },
+   {
+    "acc": "GCF_041734735.1",
+    "name": "ASM4173473v1",
+    "level": "Chromosome",
+    "size": "1651990951",
+    "n50": 53174447,
+    "contigN50": 2638925,
+    "gc": 43.5,
+    "refseq": "reference genome",
+    "date": "2024-09-04"
+   },
+   {
+    "acc": "GCA_011634625.1",
+    "name": "BA9_1.0",
+    "level": "Scaffold",
+    "size": "1108395005",
+    "n50": 6321,
+    "contigN50": 5933,
+    "gc": 43,
+    "date": "2020-03-23"
+   }
+  ],
+  "refseqProtein": 38612,
+  "nucleotide": 43720
+ },
+ {
+  "cn": "尖锥蟹守螺",
+  "sci": "Cerithium vulgatum",
+  "alt": [],
+  "raw": {},
+  "taxid": 3901986,
+  "matchedName": "Cerithium vulgatum",
+  "coiCount": 0,
+  "coi": [
+   {
+    "acc": "AF301496.1",
+    "def": "AF301496.1 Cerithium vulgatum clone V13 microsatellite sequence",
+    "len": 426,
+    "gc": 45.31,
+    "seq": "GATCTGCACCACATGGAAACTCGCAACTTATGGTTGCTTCATTAAGTTCTGAAAGTTTTAAATTTATTAATTAATTAGTACTTGATTTTTTAAATGCCTTTGAATTGGTCTATGTTTAAACGTCCCCAAACCCGTGGGTCCACGAATAGTCATGTATATAGTTGCTGACGCGGCGTTAAGACTTAAATACCTGCCTACCTTGAGAACTCGCTTCTGTTCATGGCCGAGAATGCCTAAAACAACAAACCACGTCAAAGTCAGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTTACAGCAGGACACAGTGATGAGTATGTTGCGGCAGCTACCAAGAACAACGCCGGACCCTCTGACGGCTGGATTCACCTGACGGGCAGCTTCCAGCGCAAACGGAGGTCAGTC"
+   },
+   {
+    "acc": "AF301494.1",
+    "def": "AF301494.1 Cerithium vulgatum clone V1 microsatellite sequence",
+    "len": 407,
+    "gc": 48.65,
+    "seq": "GATCCAGTCGGGTTTCCCATCTGGCCAATGTTTGGGTTGTTTCGGGTTTGGAAACCGTATTTCAGTCCCAGCTGTCTGTGTAGTGCGCCGGGTTGACGGTTACTACCGTTAGCAGAGAGTTTGCCAGAGGGTGCACGGTTTGAGCCTAGTGAGGGCGAAATCCTGTACAGCCCTTTTCATCGATGCCCTCATTGCTTTGGTTTACGCTTTTGGAAGGAAGGGATGAATCAACAAAAGAAGAAAGAAAGACTGGATAAGAGAAAGCAAGAAAAAGCCGGGAGAGAGAAAGAGAGAGAGAGAGGGTGGGTGTGTTAGTGCTGTATACACCGTCTTTTGTCCATACTGACGGCGATTTACACGATGGGGACATCCAAGAAAAGGGCAGTGCAATGGCAATGACAATGATC"
+   },
+   {
+    "acc": "AF301495.1",
+    "def": "AF301495.1 Cerithium vulgatum clone V11 microsatellite sequence",
+    "len": 397,
+    "gc": 47.1,
+    "seq": "GATCTGCGCGCCGGATTTTCTTCTTCCTCGGCCTTTTATGGCTTGAAACGTGGCCTTTTCATACTGGGGGGTCCTCAGCAGCCAACGAGGGGAGTCTCTCTGTCTCCTTTTCTCTCAGGTTGATTATGTGACTTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCCCTCTCCCTCTCTCTCAGGAAGATTATGTGACTTCAACATGGCCAGCTGTTTTGAGAAAGCGTCGCGAGTACTCTCCAGCCGTCATAAATTTTTATTTCGCAAATTAGCATGAATATTTCATTACTTTAGCAATTGCACGGCGAGCCGTTTCAACGAAATCTGTCCCATAAACCTGGCGACACTTGTTAGCCGTTTTTCAAGATGTGCAGAGGAGGTACTATAGGATC"
+   }
+  ],
+  "refseqProtein": 0,
+  "nucleotide": 3,
+  "tax": {
+   "name": "Thericium vulgatum",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Gastropoda",
+     "rank": "class"
+    },
+    {
+     "name": "Caenogastropoda",
+     "rank": "subclass"
+    },
+    {
+     "name": "Sorbeoconcha",
+     "rank": "clade"
+    },
+    {
+     "name": "Cerithioidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Cerithiidae",
+     "rank": "family"
+    },
+    {
+     "name": "Thericium",
+     "rank": "genus"
+    }
+   ],
+   "lineageText": "cellular organisms(cellular root) > Eukaryota(domain) > Opisthokonta(clade) > Metazoa(kingdom) > Eumetazoa(clade) > Bilateria(clade) > Protostomia(clade) > Spiralia(clade) > Lophotrochozoa(clade) > Mollusca(phylum) > Gastropoda(class) > Caenogastropoda(subclass) > Sorbeoconcha(clade) > Cerithioidea(superfamily) > Cerithiidae(family) > Thericium(genus)"
+  },
+  "genomes": []
+ },
+ {
+  "cn": "瘤荔枝螺",
+  "sci": "Thais tuberosa",
+  "alt": [],
+  "raw": {},
+  "taxid": 508960,
+  "matchedName": "Thais tuberosa",
+  "coiCount": 8,
+  "coi": [
+   {
+    "acc": "HE584348.1",
+    "def": "HE584348.1 Menathais tuberosa mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher MNHN:IM-2007-18166",
+    "len": 658,
+    "gc": 40.27,
+    "seq": "AACATTATATATTTTATTTGGAATATGGTCAGGACTGGTAGGTACCGCTCTTAGTCTTCTTATTCGAGCAGAGCTTGGACAGCCCGGGGCTCTTTTAGGGGACGATCAGTTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGAAATTGACTGGTTCCCTTAATACTAGGGGCACCGGACATGGCTTTCCCACGACTAAACAATATGAGATTTTGACTTCTTCCTCCCGCACTTCTTCTCCTTCTTTCTTCTGCAGCTGTAGAAAGGGGTGTTGGAACCGGATGAACTGTTTATCCTCCATTAGCGGGAAATCTAGCACATGCTGGAGGTTCTGTAGATCTAGCAATTTTCTCCCTCCACTTAGCTGGGGTTTCTTCTATTCTGGGTGCTGTTAATTTCATCACTACAATCATCAATATACGCTGACGTGGTATGCAATTTGAGCGATTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTTTGTTATCCCTACCTGTATTAGCTGGGGCAATTACAATGCTGTTGACTGATCGGAACTTCAACACTGCATTCTTTGACCCAGCAGGTGGTGGAGATCCTATTTTATACCAACATCTATTT"
+   },
+   {
+    "acc": "HE584347.1",
+    "def": "HE584347.1 Menathais tuberosa mitochondrial partial COI gene for cytochrome oxidase subunit 1, specimen voucher NHMUK:20070163",
+    "len": 658,
+    "gc": 40.27,
+    "seq": "AACATTATATATTTTATTTGGAATATGGTCAGGACTGGTAGGTACCGCTCTTAGTCTTCTTATTCGAGCAGAGCTTGGACAGCCCGGGGCTCTTTTAGGGGACGATCAGTTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGAAATTGACTGGTTCCCTTAATACTAGGGGCACCGGACATGGCTTTCCCACGACTAAATAATATGAGATTTTGACTTCTTCCTCCCGCACTTCTTCTCCTTCTTTCTTCTGCAGCTGTAGAAAGGGGTGTTGGAACCGGATGAACTGTTTATCCTCCATTAGCGGGAAATCTAGCACATGCTGGAGGTTCTGTAGATCTAGCAATTTTCTCCCTCCACTTAGCTGGGGTTTCTTCTATTCTGGGTGCTGTTAATTTCATCACTACAATCATCAACATACGCTGACGTGGTATGCAATTTGAGCGATTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTTTGTTATCCCTACCTGTATTAGCTGGGGCAATTACAATGCTGTTGACTGATCGGAACTTCAATACTGCATTCTTTGACCCAGCAGGTGGTGGAGATCCTATTTTATACCAACATCTATTC"
+   },
+   {
+    "acc": "EU391575.1",
+    "def": "EU391575.1 Thais tuberosa cyotchrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 39.51,
+    "seq": "AACATTATATATTTTATTTGGAATATGATCAGGACTGGTGGGTACCGCTCTCAGTCTTCTTATTCGAGCAGAACTTGGACAGCCAGGAGCTCTTTTAGGGGACGATCAACTATATAATGTAATTGTAACAGCACATGCTTTTGTAATGATTTTTTTCTTAGTTATGCCTATAATAATTGGAGGATTTGGGAATTGATTGGTTCCCTTAATACTAGGGGCACCGGATATGGCTTTCCCCCGACTAAACAATATGAGATTTTGACTCCTTCCTCCTGCACTTCTTCTTCTCCTTTCTTCTGCAGCTGTAGAAAGGGGGGTTGGGACTGGATGAACTGTTTATCCTCCGTTAGCGGGAAATCTAGCACACGCTGGAGGTTCTGTAGATTTAGCAATTTTTTCTCTCCACTTAGCTGGGGTTTCCTCTATTCTAGGTGCTGTTAATTTCATCACTACAATTATCAACATACGTTGACGTGGTATGCAATTTGAGCGGTTACCTTTATTTGTTTGATCTGTTAAAATTACAGCTATTTTACTTCTGTTGTCCTTACCTGTGTTAGCTGGGGCAATTACAATACTGTTAACTGATCGAAATTTCAATACTGCATTCTTTGACCCAGCAGGGGGTGGAGATCCTATTTTATATCAACATCTATTT"
+   }
+  ],
+  "refseqProtein": 13,
+  "nucleotide": 27,
+  "tax": {
+   "name": "Menathais tuberosa",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Gastropoda",
+     "rank": "class"
+    },
+    {
+     "name": "Caenogastropoda",
+     "rank": "subclass"
+    },
+    {
+     "name": "Neogastropoda",
+     "rank": "order"
+    },
+    {
+     "name": "Muricoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Muricidae",
+     "rank": "family"
+    },
+    {
+     "name": "Menathais",
+     "rank": "genus"
+    }
+   ],
+   "lineageText": "cellular organisms(cellular root) > Eukaryota(domain) > Opisthokonta(clade) > Metazoa(kingdom) > Eumetazoa(clade) > Bilateria(clade) > Protostomia(clade) > Spiralia(clade) > Lophotrochozoa(clade) > Mollusca(phylum) > Gastropoda(class) > Caenogastropoda(subclass) > Neogastropoda(order) > Muricoidea(superfamily) > Muricidae(family) > Menathais(genus)"
+  },
+  "genomes": []
+ },
+ {
+  "cn": "缢蛏",
+  "sci": "Sinonovacula constricta",
+  "alt": [
+   "Solen constricta"
+  ],
+  "raw": {},
+  "taxid": "98310",
+  "matchedName": "Sinonovacula constricta",
+  "tax": {
+   "name": "Sinonovacula constricta",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Bivalvia",
+     "rank": "class"
+    },
+    {
+     "name": "Autobranchia",
+     "rank": "subclass"
+    },
+    {
+     "name": "Heteroconchia",
+     "rank": "clade"
+    },
+    {
+     "name": "Euheterodonta",
+     "rank": "infraclass"
+    },
+    {
+     "name": "Imparidentia",
+     "rank": "superorder"
+    },
+    {
+     "name": "Neoheterodontei",
+     "rank": "clade"
+    },
+    {
+     "name": "Cardiida",
+     "rank": "order"
+    },
+    {
+     "name": "Tellinoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Solecurtidae",
+     "rank": "family"
+    },
+    {
+     "name": "Sinonovacula",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 150,
+  "coi": [
+   {
+    "acc": "OQ434729.1",
+    "def": "OQ434729.1 Sinonovacula constricta isolate 21914-3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 641,
+    "gc": 34.79,
+    "seq": "GATCAGGATTAGTTGGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTAATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGAGCTGGATGAACAATTTATCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGTGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGTCTTTTTGTCTGGTCTGTTGTGATTACTGCTTTTTTACTAGTGTTAGCGATGCCAGTTTTAGCAGGTGCTTTAACTATACTTTTAACTGACCGTCATTTTAACACATCCTTTTTTGATCCTAGAGGGGGAGGAGATCCTATCTTGTTTGTTCATTTATTTTGATTTTGG"
+   },
+   {
+    "acc": "OQ434730.1",
+    "def": "OQ434730.1 Sinonovacula constricta isolate 21914-4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 626,
+    "gc": 35.62,
+    "seq": "GATCAGGATTAGTTGGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTGATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGGGCTGGATGAACAATTTATCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGGGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGCCTTTTTGTTTGGTCTGTTGTGATTACTGCTTTTTTACTAGTATTAGCGATGCCAGTTTTAGCAGGGGCTTTAACTATGCTTTTAACTGACCGTCATTTTAATACATCCTTTTTTGATCCTAGAGGGGGAGGAGATCCTATCTTGTTTGTTCAT"
+   },
+   {
+    "acc": "AY874534.1",
+    "def": "AY874534.1 Sinonovacula constricta cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 580,
+    "gc": 34.66,
+    "seq": "GGGACAAGGTTAAGGTTGTTGATTCGATTGGAATTAGCTCGTCCTGGTGGTTTTATAGGGGATGAGCATTTATATAATGTTATTGTAACTGCTCATGCTTTTGTTATAATTTTTTTTTTAGTTATGCCAATGATGGTAGGCGGGTTTGGAAATTGACTACTTCCTTTGATATTAACTTCTCCAGATATGTCTTTTCCTCGTTTAAATAATTTAAGATTTTGGTTGCTTCCTTGTGCTTTATTTTTTTTATTATGGTCTGGATTTGTTGGCAGAGGAATTGGAGCTGGATGAACAATTTACCCTCCTTTATCTGGTAATTTAGCTCATAGAAGACCTTCTATGGATTATGGAATTTTTTCTATGCATTTGGCAGGTGCTTCTTCTATTTTAGGTGCTGCTAATTTTGTTACTACTATAATTAATATGCGACCAGGAGTTATGGAATTAAAGCGTGTGAGTCTTTTTGTTTGGTCTGTTGTGATTACTGCTTTTTTACTAGTGTTAGCGATGCCAGTTTTAGCAGGTGCTTTAACTATACTTTTAACTGACCGTCATTTTAACACATCCTTTTTTGATCCTA"
+   }
+  ],
+  "genomes": [
+   {
+    "acc": "GCA_007844125.1",
+    "name": "ASM784412v1",
+    "level": "Chromosome",
+    "size": "1220848272",
+    "n50": 65929677,
+    "contigN50": 976936,
+    "gc": 35,
+    "refseq": "reference genome",
+    "date": "2019-08-08"
+   },
+   {
+    "acc": "GCA_009762815.1",
+    "name": "ASM976281v1",
+    "level": "Chromosome",
+    "size": "1332234310",
+    "n50": 57991182,
+    "contigN50": 679505,
+    "gc": 35.5,
+    "date": "2019-12-18"
+   }
+  ],
+  "refseqProtein": 12,
+  "nucleotide": 22371
+ },
+ {
+  "cn": "泥蚶",
+  "sci": "Tegillarca granosa",
+  "alt": [
+   "Anadara granosa",
+   "Arca granosa"
+  ],
+  "raw": {},
+  "taxid": "220873",
+  "matchedName": "Tegillarca granosa",
+  "tax": {
+   "name": "Tegillarca granosa",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Bivalvia",
+     "rank": "class"
+    },
+    {
+     "name": "Autobranchia",
+     "rank": "subclass"
+    },
+    {
+     "name": "Pteriomorphia",
+     "rank": "clade"
+    },
+    {
+     "name": "Arcoida",
+     "rank": "order"
+    },
+    {
+     "name": "Arcoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Arcidae",
+     "rank": "family"
+    },
+    {
+     "name": "Tegillarca",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 175,
+  "coi": [
+   {
+    "acc": "PZ756559.1",
+    "def": "PZ756559.1 Tegillarca granosa voucher TG15.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 654,
+    "gc": 37.46,
+    "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+   },
+   {
+    "acc": "PZ756558.1",
+    "def": "PZ756558.1 Tegillarca granosa voucher TG14.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 654,
+    "gc": 37.46,
+    "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+   },
+   {
+    "acc": "PZ756557.1",
+    "def": "PZ756557.1 Tegillarca granosa voucher TG12.BAU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 654,
+    "gc": 37.46,
+    "seq": "TTATTTGCTTTCGGGATTTTGGTCAGCATTGATAGGGATTTGTTTAAGGTTTCATATTCGTGTTAATTTAGCGCAGCCGGCAGGTCTTTATGTAGAAGTTAGTCAGCTGTATAATGTGATTATTACTAGGCATGCATTTATTATGATTTTTTTTTTCGTTATACCAGTAATAATGGGGGGGTTTGGTAATTGACTGATTCCAATTATAGTTGGGTGTGGGGATATAAGACACCCACGTTTAAATAATTTTAGTTACTGAGCCATTCCTGGTGCTTTATTCATAGTTTTCATGTCAGCATTGATTGAGGGTGGGGCCGGTACTGGATGAACTCTTTACCCTCCCCTTTCTGGTTGGATCTATCATAGAAGTCCGGCGCTGGATATGGTTATTCTTTCGTTACATATTGCTGGGTTTGGCTCAATAATAAGGTCTTTAAATTTTATGTGTACTATAATTACAAGTCGTTTTTATGCTATAATTCCAGAGCGGATACCTGTGTTTTGTTGGTCGATGTTTGTTACATCTTGGTTATTATTATTTTCTTTGCCTGTATTGGCTGGCGGTTTAACTATACTTCTTACTGATCGCCATATTAATACTTCTTTTTTCCGACCGCAAGGGGGAGGGGATCCTTTATTGTTTCAACATTTGTT"
+   }
+  ],
+  "genomes": [
+   {
+    "acc": "GCA_029721355.1",
+    "name": "KUTeg",
+    "level": "Chromosome",
+    "size": "915485251",
+    "n50": 45661362,
+    "contigN50": 463414,
+    "gc": 31.5,
+    "refseq": "reference genome",
+    "date": "2023-04-18"
+   },
+   {
+    "acc": "GCA_013375625.1",
+    "name": "ASM1337562v1",
+    "level": "Scaffold",
+    "size": "797648519",
+    "n50": 42616908,
+    "contigN50": 605873,
+    "gc": 31.5,
+    "date": "2020-06-29"
+   }
+  ],
+  "refseqProtein": 12,
+  "nucleotide": 4398
+ },
+ {
+  "cn": "紫贻贝",
+  "sci": "Mytilus edulis",
+  "alt": [],
+  "raw": {},
+  "taxid": "6550",
+  "matchedName": "Mytilus edulis",
+  "tax": {
+   "name": "Mytilus edulis",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Bivalvia",
+     "rank": "class"
+    },
+    {
+     "name": "Autobranchia",
+     "rank": "subclass"
+    },
+    {
+     "name": "Pteriomorphia",
+     "rank": "clade"
+    },
+    {
+     "name": "Mytilida",
+     "rank": "order"
+    },
+    {
+     "name": "Mytiloidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Mytilidae",
+     "rank": "family"
+    },
+    {
+     "name": "Mytilinae",
+     "rank": "subfamily"
+    },
+    {
+     "name": "Mytilus",
+     "rank": "genus"
+    }
+   ],
+   "commonName": "edible mussel"
+  },
+  "coiCount": 454,
+  "coi": [
+   {
+    "acc": "PX916445.1",
+    "def": "PX916445.1 Mytilus edulis isolate s2569-13 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 661,
+    "gc": 38.12,
+    "seq": "GACTCTTTATCTATATAGTGGGGTCTGAGGAGGTTTGTTCGGGGCAAGGTTAAGTCTGATAATCCGGATACAGTTAGGGCATCCTGGAGCAGTATTTTTAAAAAGAGACTGGTTTTATAATGTGGTTGTTACAACACACGCCTTAATAATAATTTTCTTTGCTGTAATACCTATCCTAATCGGAGCTTTTGGTAATTGGCTGATTCCTCTATTAGTAGGTGGTAAAGATATAATTTATCCGCGGATAAATAATTTGAGTTATTGGTTATCTCCTAATGCGCTATATTTACTTATATTATCTTTTAGAACGGATAAAGGGGTAGGTGCTGGATGGACTATTTACCCGCCATTGTCTGTATACCCTTATCATAGCGGGCCGAGGATAGATGTTCTTATTGTGTCCTTGCATTTAGCTGGGTTAAGTTCTTTGGTGGGTGCTATTAATTTTGCTAGTACCAACAAAAACATACCAGTTTTAGAGATAAAAGGAGAACGAGCTGAGCTTTATGTCCTAAGGATTAGAGTTACTGCCGTATTGCTAATTATTTCTATTCCGGTTTTAGGAGGGGGTATCACAATAATTCTGTTTGATCGGAATTTTAACACAACATTTTTTGATCCAGCAGGAGGGGGTGACCCTGTCTTGTTTCAACATTTGTTC"
+   },
+   {
+    "acc": "PX916444.1",
+    "def": "PX916444.1 Mytilus edulis isolate s2569-9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 661,
+    "gc": 39.79,
+    "seq": "AACCCTTTATCTGTATAGCGGAGTCTGAGGAGGGTTGTTTGGAGCAAGGTTGAGGTTAATGATCCGAATGCAACTGGGTCATCCTGGAGCAGTGTTCTTAAAAAGAGATTGATTCTATAATGTGGTGGTTACAACGCATGCCTTAATAATAATTTTTTTTGCTGTGATACCTATCTTAATTGGAGCTTTCGGTAATTGGTTGATTCCTCTGCTAGTAGGAGGTAAAGATATAATTTACCCGCGAATAAATAACTTAAGTTATTGACTATCTCCTAATGCACTATATTTGCTAATACTGTCCTTTAGAACGGATAAAGGAGTTGGTGCTGGATGAACTATTTACCCCCCTTTATCTGTGTACCCCTATCATAGGGGCCCTAGGATAGATGTTCTTATTGTGTCACTACATCTAGCTGGGCTCAGCTCTCTAGTGGGGGCTATTAACTTTGCTAGGACCAATAAAAATATGCCAGTGTTAGAAATGAAAGGAGAACGAGCGGAGCTTTATGTTTTAAGGATTAGAGTTACTGCAGTTCTTTTAATTATTTCAATTCCGGTTTTAGGAGGGGGTATCACAATAATCTTGTTTGACCGAAACTTTAACACAACTTTTTTCGATCCCGCAGGAGGGGGGGACCCCGTTTTGTTCCAACATTTGTTT"
+   },
+   {
+    "acc": "PX916443.1",
+    "def": "PX916443.1 Mytilus edulis isolate s2569-5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 661,
+    "gc": 38.28,
+    "seq": "TACTCTTTATCTATATAGTGGGGTCTGAGGAGGTTTGTTCGGGGCAAGGTTAAGCCTGATAATCCGGATACAGTTAGGGCATCCTGGAGCAGTATTTTTAAAAAGAGACTGGTTTTATAATGTGGTTGTTACAACACACGCCTTAATAATAATTTTCTTTGCTGTAATACCTATCCTAATCGGAGCTTTTGGTAATTGGCTGATTCCTCTATTAGTAGGTGGTAAAGATATAATTTATCCGCGGATAAATAATTTGAGTTATTGGTTATCTCCTAATGCGCTATATTTACTTATATTATCTTTTAGAACGGATAAAGGGGTAGGTGCTGGATGGACTATTTACCCGCCATTGTCTGTATACCCTTATCATAGCGGGCCGAGGATAGATGTTCTTATTGTGTCCTTGCATTTAGCTGGGTTAAGTTCTTTGGTGGGTGCTATTAATTTTGCTAGTACCAACAAAAACATACCAGTTTTAGAGATAAAAGGAGAACGAGCTGAGCTTTATGTCCTAAGGATCAGAGTTACTGCCGTATTGCTAATTATTTCTATTCCGGTTTTAGGAGGGGGTATCACAATAATTCTGTTTGATCGGAATTTTAACACAACATTTTTTGATCCAGCAGGAGGGGGTGACCCTGTCTTGTTTCAACATTTGTTC"
+   }
+  ],
+  "genomes": [
+   {
+    "acc": "GCA_963676685.2",
+    "name": "xbMytEdul2.2",
+    "level": "Chromosome",
+    "size": "1368414245",
+    "n50": 93447462,
+    "contigN50": 1737898,
+    "gc": 32.5,
+    "refseq": "reference genome",
+    "date": "2024-03-10"
+   },
+   {
+    "acc": "GCF_963676685.1",
+    "name": "xbMytEdul2.2",
+    "level": "Chromosome",
+    "size": "1368414245",
+    "n50": 93447462,
+    "contigN50": 1737898,
+    "gc": 32.5,
+    "refseq": "reference genome",
+    "date": "2024-03-10"
+   },
+   {
+    "acc": "GCA_019925275.2",
+    "name": "PEIMed_v2",
+    "level": "Chromosome",
+    "size": "1651231726",
+    "n50": 116503180,
+    "contigN50": 490737,
+    "gc": 32.5,
+    "date": "2021-09-14"
+   },
+   {
+    "acc": "GCA_025276775.1",
+    "name": "MeduEUN",
+    "level": "Chromosome",
+    "size": "1764168478",
+    "n50": 77102752,
+    "contigN50": 29172,
+    "gc": 32,
+    "date": "2022-09-23"
+   },
+   {
+    "acc": "GCA_025215535.1",
+    "name": "MeduEUS",
+    "level": "Chromosome",
+    "size": "2076684032",
+    "n50": 228263,
+    "contigN50": 23624,
+    "gc": 34.5,
+    "date": "2022-09-16"
+   }
+  ],
+  "refseqProtein": 62345,
+  "nucleotide": 88936
+ },
+ {
+  "cn": "栉孔扇贝",
+  "sci": "Chlamys farreri",
+  "alt": [
+   "Azumapecten farreri",
+   "Chlamys farreri nipponensis"
+  ],
+  "raw": {},
+  "taxid": "106299",
+  "matchedName": "Azumapecten farreri",
+  "tax": {
+   "name": "Azumapecten farreri",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Bivalvia",
+     "rank": "class"
+    },
+    {
+     "name": "Autobranchia",
+     "rank": "subclass"
+    },
+    {
+     "name": "Pteriomorphia",
+     "rank": "clade"
+    },
+    {
+     "name": "Pectinida",
+     "rank": "order"
+    },
+    {
+     "name": "Pectinoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Pectinidae",
+     "rank": "family"
+    },
+    {
+     "name": "Azumapecten",
+     "rank": "genus"
+    }
+   ],
+   "commonName": "Farrer's scallop"
+  },
+  "coiCount": 19,
+  "coi": [
+   {
+    "acc": "PV875158.1",
+    "def": "PV875158.1 Azumapecten farreri voucher CAU24-22131 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 800,
+    "gc": 39.63,
+    "seq": "GGGGGGATTGACATGAGGTTTCCTCGAGTTAATACGTTTAGGTTTTGGCTTGTTCCTTTTGCTCTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATACCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGTTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTAC"
+   },
+   {
+    "acc": "PV875129.1",
+    "def": "PV875129.1 Azumapecten farreri voucher CAU24-23088 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 806,
+    "gc": 38.83,
+    "seq": "GTTAATACGTTTAGGTTTTGGCTTGTTCCTTTTGCTCTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATATCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGCTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTACGGGAATTATTTTATCTAATGCTTCGTTAGACGT"
+   },
+   {
+    "acc": "PV875169.1",
+    "def": "PV875169.1 Azumapecten farreri voucher CAU24-21078 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 810,
+    "gc": 38.77,
+    "seq": "CTTTATATGGTTGTAGTATCACCGTTTATTGAGCAGGGCAGGGGAACTGGTTGAACAATATACCCTCCGCTGTCGTCTACTCCTTATCAGAGGGACATTTGTACGGACATGGTGATTTTAGGGTTACATTTGGCCGGGGTTAGGTCTACTGCTGGTTCGGTAAATTACCTAGTTACTTTTTTAAATGTACGAGGCAAGTCATATAAGGCAGAGTTTTGTCCTCCTTTTGTCTGGGCTTTATCAGTAACGAGGTTTTTGTTGGTGGTGTCTTTGCCTATCTTAGCAGGGGGTTTAACTATGTTAATTATAGATCGACACTTTAATTGTACATTTTTTGATCCTTCCGGGGGAGGGGATCCTGTATTATTTCAGCATCTTTTTTGGTTTTTTGGTCATCCTGAAGTTTATGTTCTTATTCTTCCTGGTTTCGGTTTAGTTTCCCATATGTTGGTTTTTTATACTAAGAAGATCCGGGTGTTTGGAGCAGTGGCCATAATATATGCTATAATTTCTATTGGTATTCTAGGGTTTATTGTTTGGGGACATCATATGTTTACGGTGGGATTAGACGCGGATACTCGTTTTTATTTTACTGCTGTAACTATGCTTATTGCCGTTCCTACTGGTGTTAAAGTCTTTGGATGGATCGCGACAATTTTTGGGTCTTATCTAAGGTTTGAGGCACCTATACTTTGGATTATTGGTTTTATTTTTAAGTTCACTATTGGGGGTATTACGGGAATTATTTTATCTAATGCTTCGTTAGACGTGGCTTTACATGATACTTATTATGTGGTAGCTCACTTTCAT"
+   }
+  ],
+  "genomes": [],
+  "refseqProtein": 11,
+  "nucleotide": 25625
+ },
+ {
+  "cn": "小眼花帘蛤",
+  "sci": "Ruditapes variegatus",
+  "alt": [
+   "Veremolpa micra",
+   "Tapes variegatus"
+  ],
+  "raw": {},
+  "taxid": "291252",
+  "matchedName": "Ruditapes variegatus",
+  "tax": {
+   "name": "Ruditapes variegatus",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Bivalvia",
+     "rank": "class"
+    },
+    {
+     "name": "Autobranchia",
+     "rank": "subclass"
+    },
+    {
+     "name": "Heteroconchia",
+     "rank": "clade"
+    },
+    {
+     "name": "Euheterodonta",
+     "rank": "infraclass"
+    },
+    {
+     "name": "Imparidentia",
+     "rank": "superorder"
+    },
+    {
+     "name": "Neoheterodontei",
+     "rank": "clade"
+    },
+    {
+     "name": "Venerida",
+     "rank": "order"
+    },
+    {
+     "name": "Veneroidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Veneridae",
+     "rank": "family"
+    },
+    {
+     "name": "Ruditapes",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 27,
+  "coi": [
+   {
+    "acc": "JF700193.1",
+    "def": "JF700193.1 Ruditapes variegatus voucher AS17MT01 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 34.19,
+    "seq": "TACATTATATTTCATTTTTTCAATTTGGGCTGGTCTGATGGGGACTGCTTTTAGTGTTATTATTCGTATAGAGTTGGCTATGCCGGGGAAAATGCTAGATGATGGTCAGCTTTATAATTTAGTTGTAACTGCTCATGGATTAGTTATGATTTTTTTTTTAGTAATACCAATAATAATTGGTGGGTTTGGTAATTGGTTGATTCCATTAATATTAAAAATACCTGATATAGCATTTCCTCGAATAAATAATTTAAGTTTTTGGTTACTTCCTGTATCAATATTGTTATTATTAGGGTCTGCATATGTGGATGGTGGGGCTGGTACTGGTTGAACAGTGTACCCTCCGTTGTCGTCAATTGGGTTCCATTCAGGTTGTGCTGTGGATTATGTAATTTTTTCTCTTCACGTAGGTGGTGTCTCTTCAATTTTAGCCTCTATTAATTTTGTAATTACTACATCATTGATGCGAACAGGTGTTATGTTAATTTTGCGTAGTAGTATATTAGCTTGGTGTTTAGGGGTAACAGGTTTTCTTTTGATTGTAGCTATACCAGTTTTGGCAGGGGGTTTAACTATGCTGCTTAGTGATCGTCATTTTAATACAACATTTTTTGATCCAATAGGGTTGGGAGACCCTATTTTATTTATTCATTTATTT"
+   },
+   {
+    "acc": "HQ703317.1",
+    "def": "HQ703317.1 Venerupis variegata isolate ZW100401 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 642,
+    "gc": 37.69,
+    "seq": "TTTTCTATTTGAGCCGGCCTTATAGGGACTGCGTTTAGAGTAATTATTCGAATGGAATTAGCTATGCCTGGGAAGATATTGGATGATGGTCAGTTATATAATTTAGTGGTAACTGCGCATGGTTTGGTAATAATTTTCTTTTTAGTAATACCTATAATGATTGGGGGTTTTGGGAATTGGTTGGTGCCTTTAATATTAAAGGCACCTGACATGGCTTTTGCACGAATAAATAATTTGAGTTTCTGGCTTTTACCTGTGTCTATAATGTTATTGTTGAGGTCCAGGTATGTGGATGGTGGTGCTGGAACGGGTTGAACTATTTATCCGCCTTTATCTAGTGCTATTTCACATTCTGGGTGTGCTATGGACTATGTCATCTTTTCTTTACATGTTGGGGGAATATCATCTATTATAGCATCTATTAATTTCGTTATTACTACAGTTCTTATACGGAGGGGGGTGATAGTATTATTCCGGGCTAGAATGTTAGTGTGGTGCTTAGGAGTAACTGCTTTCTTGTTGGTAGTGGCGATACCTGTGCTGGCGGGAGCTTTAACTATGTTATTAACTGATCGTAACTTTAATACAAGGTTTTTTGATCCAGTAGGAATAGGGGACCCTATTTTATTTATTCATTTGTTT"
+   },
+   {
+    "acc": "HQ703316.1",
+    "def": "HQ703316.1 Venerupis variegata isolate ZS080212 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",
+    "len": 642,
+    "gc": 37.69,
+    "seq": "TTTTCTATTTGAGCCGGCCTTATAGGGACTGCGTTTAGAGTAATTATTCGAATGGAATTAGCTATGCCTGGGAAGATATTGGATGATGGTCAGTTATATAATTTAGTGGTAACTGCGCATGGTTTGGTAATAATTTTCTTTTTAGTAATACCTATAATGATTGGGGGTTTTGGGAATTGGTTGGTGCCTTTAATATTAAAGGCACCTGACATGGCTTTTGCACGAATAAATAATTTGAGTTTCTGGCTTTTACCTGTGTCTATAATGTTATTGTTGAGGTCCAGGTATGTGGATGGTGGTGCTGGAACGGGTTGAACTATTTATCCGCCTTTATCTAGTGCTATTTCACATTCTGGGTGTGCTATGGACTATGTCATCTTTTCTTTACATGTTGGGGGAATATCATCTATTATAGCATCTATTAATTTCGTTATTACTACAGTTCTTATACGGAGGGGGGTGATAGTATTATTCCGGGCTAGAATGTTAGTGTGGTGCTTAGGAGTAACTGCTTTCTTGTTGGTAGTGGCGATACCTGTGCTGGCGGGAGCTTTAACTATGTTATTAACTGATCGTAACTTTAATACAAGGTTTTTTGATCCAGTAGGAATAGGGGACCCTATTTTATTTATTCATTTGTTT"
+   }
+  ],
+  "genomes": [],
+  "refseqProtein": 13,
+  "nucleotide": 56
+ },
+ {
+  "cn": "环纹货贝",
+  "sci": "Monetaria annulus",
+  "alt": [
+   "Cypraea annulus"
+  ],
+  "raw": {},
+  "taxid": "217785",
+  "matchedName": "Monetaria annulus",
+  "tax": {
+   "name": "Monetaria annulus",
+   "rank": "species",
+   "div": "Invertebrates",
+   "lin": [
+    {
+     "name": "cellular organisms",
+     "rank": "cellular root"
+    },
+    {
+     "name": "Eukaryota",
+     "rank": "domain"
+    },
+    {
+     "name": "Opisthokonta",
+     "rank": "clade"
+    },
+    {
+     "name": "Metazoa",
+     "rank": "kingdom"
+    },
+    {
+     "name": "Eumetazoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Bilateria",
+     "rank": "clade"
+    },
+    {
+     "name": "Protostomia",
+     "rank": "clade"
+    },
+    {
+     "name": "Spiralia",
+     "rank": "clade"
+    },
+    {
+     "name": "Lophotrochozoa",
+     "rank": "clade"
+    },
+    {
+     "name": "Mollusca",
+     "rank": "phylum"
+    },
+    {
+     "name": "Gastropoda",
+     "rank": "class"
+    },
+    {
+     "name": "Caenogastropoda",
+     "rank": "subclass"
+    },
+    {
+     "name": "Littorinimorpha",
+     "rank": "order"
+    },
+    {
+     "name": "Cypraeoidea",
+     "rank": "superfamily"
+    },
+    {
+     "name": "Cypraeidae",
+     "rank": "family"
+    },
+    {
+     "name": "Monetaria",
+     "rank": "genus"
+    }
+   ]
+  },
+  "coiCount": 20,
+  "coi": [
+   {
+    "acc": "MZ560055.1",
+    "def": "MZ560055.1 Monetaria annulus voucher USNM:1467060 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 40.88,
+    "seq": "TACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGACGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGGAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCGCCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTAGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGTATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATACCAACACCTGTTT"
+   },
+   {
+    "acc": "MZ560054.1",
+    "def": "MZ560054.1 Monetaria annulus voucher USNM:1467058 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 658,
+    "gc": 40.88,
+    "seq": "TACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGATGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGAAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCACCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTGGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGCATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATACCAGCACCTGTTT"
+   },
+   {
+    "acc": "PX457580.1",
+    "def": "PX457580.1 Monetaria annulus isolate MBSCYP06 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial",
+    "len": 684,
+    "gc": 39.91,
+    "seq": "TAAAGATATTGGTACCCTATATATTTTATTTGGTATATGATCAGGACTAGTTGGTACAGCTCTTAGACTATTAATTCGAGCTGAACTAGGCCAACCAGGAGCTCTTCTGGGGGATGATCAATTATATAATGTAATTGTAACCGCCCACGCTTTTGTTATAATTTTCTTTTTAGTAATACCTATAATGATTGGAGGATTTGGAAACTGATTAGTTCCTTTAATACTAGGAGCCCCAGACATGGCATTCCCACGTCTAAATAATATAAGTTTCTGACTTCTTCCACCTGCCCTTCTACTACTCCTTTCTTCAGCAGCAGTCGAAAGTGGAGTTGGAACTGGATGAACCGTCTACCCTCCTTTAGCCGGAAACCTTGCTCACGCAGGTGGGTCTGTAGATCTAGCTATTTTTTCTCTCCACCTAGCAGGTGTCTCATCTATTCTAGGTGCTGTAAACTTCATTACAACTATTATTAACATACGATGACGAGGCATGCAGTTTGAACGACTTCCCCTATTTGTATGATCTGTGAAAATTACTGCCATCCTACTTCTCCTCTCTCTACCAGTTTTAGCAGGTGCTATTACAATGTTATTAACAGACCGAAACTTTAACACCGCTTTCTTTGATCCAGCAGGAGGTGGAGACCCTATTTTATATCAACACCTGTTTTGATTTTTTGGTCA"
+   }
+  ],
+  "genomes": [],
+  "refseqProtein": 0,
+  "nucleotide": 38
+ }
+]

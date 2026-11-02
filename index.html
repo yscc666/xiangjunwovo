@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MolluscaDB · 常见贝类分子数据平台</title>
+<meta name="description" content="常见贝类标本分子数据平台：10 种贝类的分类谱系、COI 条形码、基因组组装与 RefSeq 资源，数据全部来自 NCBI 与 WoRMS。">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐚</text></svg>">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="#home">
+      <span class="logo">🐚</span>
+      <span>MolluscaDB<small>常见贝类 · 分子数据平台</small></span>
+    </a>
+    <nav class="nav" aria-label="主导航">
+      <a href="#home" data-nav="home">首页</a>
+      <a href="#species" data-nav="species">物种档案</a>
+      <a href="#sequence" data-nav="sequence">序列检索</a>
+      <a href="#taxonomy" data-nav="taxonomy">分类树</a>
+      <a href="#about" data-nav="about">关于</a>
+    </nav>
+    <button class="icon-btn" id="themeBtn" title="切换深浅色" aria-label="切换深浅色">🌙</button>
+  </div>
+</header>
+
+<main>
+
+  <!-- ================= 首页 ================= -->
+  <div id="view-home">
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <div class="eyebrow">Mollusca · 软体动物门</div>
+          <h1>十种常见贝类的<br><em>分子数据</em>档案库</h1>
+          <p class="lede">
+            以一套常见贝类标本为对象，整合分类谱系、线粒体 COI 条形码、基因组组装与 RefSeq 资源。
+            每一条序列都附 GenBank 登录号，可逐条回溯至 NCBI 原始记录。
+          </p>
+          <div class="hero-meta">
+            <span class="pill">🗂 <b id="pCoi">—</b> 条 COI 条形码</span>
+            <span class="pill">🧬 <b id="pGenome">—</b> 个基因组组装</span>
+            <span class="pill">📅 采集于 <b>2026-11-02</b></span>
+          </div>
+        </div>
+        <figure class="plate">
+          <img src="assets/specimen.jpg" alt="常见贝类标本盒，含 10 种贝类标本及其标签">
+          <figcaption>标本盒实拍 · 共 10 种，腹足纲 5 种、双壳纲 5 种</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <div class="stats reveal">
+        <div class="stat"><div class="k">物种</div><div class="v" id="sSpecies">—<span>种</span></div></div>
+        <div class="stat"><div class="k">COI 条形码</div><div class="v" id="sCoi">—<span>条</span></div></div>
+        <div class="stat"><div class="k">基因组组装</div><div class="v" id="sGenome">—<span>个</span></div></div>
+        <div class="stat"><div class="k">RefSeq 蛋白</div><div class="v" id="sProt">—<span>条</span></div></div>
+      </div>
+    </div>
+
+    <section>
+      <div class="wrap">
+        <div class="sec-head reveal">
+          <div>
+            <h2>物种速览</h2>
+            <p>点击任一卡片查看完整档案：分类谱系、名称核对、COI 序列与基因组资源。</p>
+          </div>
+          <a class="btn" href="#species">全部档案 →</a>
+        </div>
+        <div class="grid" id="homeGrid"></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="sec-head reveal">
+          <div>
+            <h2>公开序列存量</h2>
+            <p>各物种在 NCBI 核酸库中的 COI 记录数（对数刻度）——直接反映该物种被条形码研究的充分程度。</p>
+          </div>
+        </div>
+        <div class="panel reveal"><div class="chart" id="chartCoi"></div></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="note reveal">
+          <b>关于数据可信度：</b>本站不含任何模拟或估算数据。表达谱模块已明确取消——没有实测转录组就不放表达量。
+          若某物种缺少公开序列，页面会直接标注「无公开 COI」，而不是用近缘种序列顶替。
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================= 物种档案 ================= -->
+  <div id="view-species" hidden>
+    <section>
+      <div class="wrap">
+        <div id="speciesIndex">
+          <div class="sec-head reveal">
+            <div>
+              <h2>物种档案</h2>
+              <p>10 种标本的分类与分子数据。学名已按 WoRMS 现行分类核对，标签与现行分类不一致之处逐一标注。</p>
+            </div>
+            <input id="speciesFilter" type="search" placeholder="筛选物种 / 学名 / 科…" aria-label="筛选物种"
+                   style="max-width:280px;padding:9px 12px;border-radius:9px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-family:inherit">
+          </div>
+          <div class="grid" id="speciesGrid"></div>
+        </div>
+
+        <div id="speciesDetail" hidden></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================= 序列检索 ================= -->
+  <div id="view-sequence" hidden>
+    <section>
+      <div class="wrap">
+        <div class="sec-head reveal">
+          <div>
+            <h2>COI 条形码检索</h2>
+            <p>全部记录来自 GenBank，可按登录号、物种、描述检索，并一键复制 / 下载 FASTA。</p>
+          </div>
+          <button class="btn" id="dlAll">下载全部 FASTA</button>
+        </div>
+
+        <div class="searchbar">
+          <input id="q" type="search" placeholder="搜索登录号 / 物种 / 描述…" aria-label="搜索序列">
+          <select id="fSpecies" aria-label="按物种筛选"><option value="">全部物种</option></select>
+          <select id="fLen" aria-label="按长度筛选">
+            <option value="">任意长度</option>
+            <option value="600:700">600–700 bp</option>
+            <option value="650:">≥ 650 bp</option>
+            <option value=":600">&lt; 600 bp</option>
+          </select>
+          <select id="fSort" aria-label="排序">
+            <option value="len-desc">长度降序</option>
+            <option value="len-asc">长度升序</option>
+            <option value="gc-desc">GC 降序</option>
+            <option value="id">按物种顺序</option>
+          </select>
+          <button class="btn" id="reset">重置</button>
+        </div>
+
+        <div class="result-meta">共 <b id="resCount">0</b> 条记录</div>
+        <div class="panel"><div id="seqTable"></div></div>
+
+        <div class="panel reveal" style="margin-top:16px">
+          <h3><span class="dot"></span>长度与 GC 含量分布</h3>
+          <div class="chart" id="chartSeq" style="height:340px"></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================= 分类树 ================= -->
+  <div id="view-taxonomy" hidden>
+    <section>
+      <div class="wrap">
+        <div class="sec-head reveal">
+          <div>
+            <h2>分类树</h2>
+            <p>基于 NCBI Taxonomy 谱系构建：门 → 纲 → 目 → 科 → 种。腹足纲与双壳纲各 5 种。</p>
+          </div>
+        </div>
+        <div class="panel reveal"><div class="chart" id="chartTree" style="height:560px"></div></div>
+
+        <div class="sec-head reveal" style="margin-top:34px">
+          <div><h2 style="font-size:1.3rem">阶元一览</h2><p>每个物种的完整谱系，点击物种名跳转档案。</p></div>
+        </div>
+        <div class="panel"><div id="lineageTable"></div></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================= 关于 ================= -->
+  <div id="view-about" hidden>
+    <section>
+      <div class="wrap">
+        <div class="sec-head reveal">
+          <div>
+            <h2>关于本站</h2>
+            <p>一个只放可核验数据的贝类分子数据库——每个数字都能追到源头。</p>
+          </div>
+        </div>
+
+        <div class="about-grid">
+          <div class="panel reveal">
+            <h3><span class="dot"></span>数据来源</h3>
+            <ul class="clean">
+              <li><b>NCBI Nucleotide</b>：COI 条形码序列与 GenBank 登录号</li>
+              <li><b>NCBI Taxonomy</b>：分类谱系与 TaxID</li>
+              <li><b>NCBI Datasets / Assembly</b>：基因组组装、大小、N50</li>
+              <li><b>NCBI Protein</b>：RefSeq 蛋白记录数</li>
+              <li><b>WoRMS</b>（世界海洋物种名录）：学名接受状态、科属归属</li>
+            </ul>
+            <p style="margin-top:14px;font-size:.86rem">采集脚本见 <code class="mono">tools/collect.mjs</code>、<code class="mono">tools/worms.mjs</code>，数据快照为 2026-11-02，可随时重跑更新。</p>
+          </div>
+
+          <div class="panel reveal">
+            <h3><span class="dot"></span>如何核验</h3>
+            <p style="font-size:.88rem">任取一条序列的登录号，直接在 GenBank 检索即可对照：</p>
+            <ul class="clean">
+              <li>序列页 → 点登录号 → 跳转 NCBI 原始记录</li>
+              <li>物种页 → TaxID / AphiaID → 跳转 NCBI 与 WoRMS</li>
+              <li>FASTA 文件 → <code class="mono">data/fasta/</code>，与页面同源</li>
+            </ul>
+            <p style="margin-top:14px;font-size:.86rem">数据层是可读的 JSON：<code class="mono">data/species.json</code>。</p>
+          </div>
+
+          <div class="panel reveal">
+            <h3><span class="dot"></span>标签与现行分类的差异</h3>
+            <p style="font-size:.88rem">标本标签上的学名有 4 处已非现行接受名，本站以 WoRMS 为准并保留标签原名供对照：</p>
+            <ul class="clean" id="nameIssues"></ul>
+          </div>
+
+          <div class="panel reveal">
+            <h3><span class="dot"></span>技术说明</h3>
+            <ul class="clean">
+              <li>纯静态站点：HTML + CSS + 原生 JS，无后端、无数据库依赖</li>
+              <li>图表：Apache ECharts 5.4.3（本地打包，离线可用）</li>
+              <li>部署：推送到 GitHub Pages 即可，无密钥、无配额、不会因闲置而暂停</li>
+              <li>无 Cookie、无追踪、不收集访客信息</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="panel reveal" style="margin-top:20px">
+          <h3><span class="dot"></span>引用与免责</h3>
+          <p style="font-size:.9rem">
+            数据版权归 NCBI / WoRMS 及各原始发表者所有，本站仅作整理与可视化，供教学与科研参考。
+            序列与分类信息请以原始数据库为准；用于正式发表前请自行复核并引用原始文献。
+          </p>
+          <p style="font-size:.9rem;margin-bottom:0">
+            建议引用格式：<span class="mono">MolluscaDB (2026). 常见贝类分子数据平台, v1.0. 数据快照 2026-11-02.</span>
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+</main>
+
+<footer>
+  <div class="wrap foot-inner">
+    <div>🐚 MolluscaDB v1.0 · 数据快照 2026-11-02 · 来源 NCBI / WoRMS</div>
+    <div>纯静态站点 · 全部序列可在 GenBank 逐条核验</div>
+  </div>
+</footer>
+
+<button class="to-top" id="toTop" aria-label="回到顶部">↑</button>
+
+<script src="assets/echarts.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

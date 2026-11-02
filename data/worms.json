@@ -1,0 +1,280 @@
+[
+ {
+  "cn": "棒锥螺",
+  "sci": "Turritella terebra",
+  "alt": "Turritella terebra bacillum",
+  "Turritella terebra": {
+   "AphiaID": 215163,
+   "scientificname": "Turritella terebra",
+   "authority": "(Linnaeus, 1758)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Turritella terebra",
+   "valid_AphiaID": 215163,
+   "family": "Turritellidae",
+   "order": "Caenogastropoda incertae sedis",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Turritella terebra bacillum": {
+   "err": 204
+  }
+ },
+ {
+  "cn": "方斑东风螺",
+  "sci": "Babylonia areolata",
+  "alt": null,
+  "Babylonia areolata": {
+   "AphiaID": 475109,
+   "scientificname": "Babylonia areolata",
+   "authority": "(Link, 1807)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Babylonia areolata",
+   "valid_AphiaID": 475109,
+   "family": "Babyloniidae",
+   "order": "Neogastropoda",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "尖锥蟹守螺",
+  "sci": "Cerithium vulgatum",
+  "alt": null,
+  "Cerithium vulgatum": {
+   "AphiaID": 139066,
+   "scientificname": "Cerithium vulgatum",
+   "authority": "Bruguière, 1792",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Thericium vulgatum",
+   "valid_AphiaID": 759450,
+   "family": "Cerithiidae",
+   "order": "Caenogastropoda incertae sedis",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "瘤荔枝螺",
+  "sci": "Thais tuberosa",
+  "alt": "Menathais tuberosa",
+  "Thais tuberosa": {
+   "AphiaID": 1671233,
+   "scientificname": "Thais tuberosa",
+   "authority": "(Röding, 1798)",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Menathais tuberosa",
+   "valid_AphiaID": 714205,
+   "family": "Muricidae",
+   "order": "Neogastropoda",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Menathais tuberosa": {
+   "AphiaID": 714205,
+   "scientificname": "Menathais tuberosa",
+   "authority": "(Röding, 1798)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Menathais tuberosa",
+   "valid_AphiaID": 714205,
+   "family": "Muricidae",
+   "order": "Neogastropoda",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "缢蛏",
+  "sci": "Sinonovacula constricta",
+  "alt": null,
+  "Sinonovacula constricta": {
+   "AphiaID": 413600,
+   "scientificname": "Sinonovacula constricta",
+   "authority": "(Lamarck, 1818)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Sinonovacula constricta",
+   "valid_AphiaID": 413600,
+   "family": "Pharidae",
+   "order": "Adapedonta",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "泥蚶",
+  "sci": "Tegillarca granosa",
+  "alt": "Anadara granosa",
+  "Tegillarca granosa": {
+   "AphiaID": 504471,
+   "scientificname": "Tegillarca granosa",
+   "authority": "(Linnaeus, 1758)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Tegillarca granosa",
+   "valid_AphiaID": 504471,
+   "family": "Arcidae",
+   "order": "Arcida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Anadara granosa": {
+   "AphiaID": 715138,
+   "scientificname": "Anadara granosa",
+   "authority": "(Linnaeus, 1758)",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Tegillarca granosa",
+   "valid_AphiaID": 504471,
+   "family": "Arcidae",
+   "order": "Arcida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "紫贻贝",
+  "sci": "Mytilus edulis",
+  "alt": null,
+  "Mytilus edulis": {
+   "AphiaID": 140480,
+   "scientificname": "Mytilus edulis",
+   "authority": "Linnaeus, 1758",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Mytilus edulis",
+   "valid_AphiaID": 140480,
+   "family": "Mytilidae",
+   "order": "Mytilida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "栉孔扇贝",
+  "sci": "Chlamys farreri",
+  "alt": "Azumapecten farreri",
+  "Chlamys farreri": {
+   "AphiaID": 1468835,
+   "scientificname": "Chlamys farreri",
+   "authority": "(K. H. Jones & Preston, 1904)",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Scaeochlamys farreri",
+   "valid_AphiaID": 852332,
+   "family": "Pectinidae",
+   "order": "Pectinida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Azumapecten farreri": {
+   "AphiaID": 393321,
+   "scientificname": "Azumapecten farreri",
+   "authority": "(K. H. Jones & Preston, 1904)",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Scaeochlamys farreri",
+   "valid_AphiaID": 852332,
+   "family": "Pectinidae",
+   "order": "Pectinida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "小眼花帘蛤",
+  "sci": "Ruditapes variegatus",
+  "alt": "Venerupis variegata",
+  "Ruditapes variegatus": {
+   "AphiaID": 826409,
+   "scientificname": "Ruditapes variegatus",
+   "authority": "(G. B. Sowerby II, 1852)",
+   "status": "junior subjective synonym",
+   "unacceptreason": null,
+   "valid_name": "Ruditapes aspera",
+   "valid_AphiaID": 1832758,
+   "family": "Veneridae",
+   "order": "Venerida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Venerupis variegata": {
+   "AphiaID": 826413,
+   "scientificname": "Venerupis variegata",
+   "authority": "(G. B. Sowerby II, 1852)",
+   "status": "junior objective synonym",
+   "unacceptreason": null,
+   "valid_name": "Ruditapes aspera",
+   "valid_AphiaID": 1832758,
+   "family": "Veneridae",
+   "order": "Venerida",
+   "class": "Bivalvia",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ },
+ {
+  "cn": "环纹货贝",
+  "sci": "Monetaria annulus",
+  "alt": "Cypraea annulus",
+  "Monetaria annulus": {
+   "AphiaID": 216875,
+   "scientificname": "Monetaria annulus",
+   "authority": "(Linnaeus, 1758)",
+   "status": "accepted",
+   "unacceptreason": null,
+   "valid_name": "Monetaria annulus",
+   "valid_AphiaID": 216875,
+   "family": "Cypraeidae",
+   "order": "Littorinimorpha",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  },
+  "Cypraea annulus": {
+   "AphiaID": 216777,
+   "scientificname": "Cypraea annulus",
+   "authority": "Linnaeus, 1758",
+   "status": "superseded combination",
+   "unacceptreason": null,
+   "valid_name": "Monetaria annulus",
+   "valid_AphiaID": 216875,
+   "family": "Cypraeidae",
+   "order": "Littorinimorpha",
+   "class": "Gastropoda",
+   "phylum": "Mollusca",
+   "rank": "Species",
+   "isMarine": 1
+  }
+ }
+]
